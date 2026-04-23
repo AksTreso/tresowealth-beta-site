@@ -1,0 +1,11 @@
+# TresoWealth Beta Site - robots.txt
+# Allow all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Disallow HTTrack backup folder
+Disallow: /httrack-backup/
+
+# Sitemap reference (will be updated when sitemap.xml is generated)
+Sitemap: https://tresowealth-beta-site.akshay-randeva.workers.dev/sitemap.xml
