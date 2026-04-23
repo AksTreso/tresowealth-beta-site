@@ -1,3 +1,6 @@
+# HTTrack backup (not needed for deployment)
+httrack-backup/
+
 # HTTrack cache files
 hts-cache/
 hts-log.txt
