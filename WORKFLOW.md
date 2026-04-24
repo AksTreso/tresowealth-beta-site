@@ -75,3 +75,8 @@ git log --oneline
 - `main` branch → Auto-deploys to production URL
 - `demo` branch → Available for preview URLs
 - Feature branches → Get automatic Cloudflare preview URLs
+
+
+---
+
+**Preview deployment trigger**: 2026-04-24
