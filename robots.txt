@@ -1,11 +1,27 @@
 # TresoWealth Beta Site - robots.txt
-# Allow all search engines to crawl the site
+# Last updated: April 24, 2026
+# Beta URL: https://tresowealth-beta-site.akshay-randeva.workers.dev/
 
+# Allow all search engines to crawl the site
 User-agent: *
 Allow: /
 
-# Disallow HTTrack backup folder
-Disallow: /httrack-backup/
+# Crawl politely (1 second between requests)
+Crawl-delay: 1
 
-# Sitemap reference (will be updated when sitemap.xml is generated)
+# Disallow backup and system folders
+Disallow: /httrack-backup/
+Disallow: /.git/
+
+# Allow common assets
+Allow: /*.css
+Allow: /*.js
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.webp
+
+# Sitemap reference
 Sitemap: https://tresowealth-beta-site.akshay-randeva.workers.dev/sitemap.xml
