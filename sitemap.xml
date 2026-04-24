@@ -71,7 +71,71 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Future pages to be added (Phase 3-6): -->
+  <!-- Phase 3: Articles (Pillar 1 + Pillar 2) -->
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/gift-city-products/gift-city-aif-products/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/gift-city-products/gift-city-aif-for-eams/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/gift-city-products/indian-fund-managers/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/gift-city-products/how-to-invest/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/gift-city-products/tax-benefits/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/gift-city-products/category-1-alternatives/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/eams-gateway/gift-city-ideal-route-eams/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/eams-gateway/why-gift-city-india-allocation/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/eams-gateway/gift-city-gateway-indian-markets/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Future pages to be added (Phase 4-6): -->
   <!-- - Gift City Products (6 articles) -->
   <!-- - EAMs & Gateway (3 articles) -->
   <!-- - Investment Process (10 articles) -->
