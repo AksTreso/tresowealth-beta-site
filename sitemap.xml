@@ -14,6 +14,63 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- Phase 2: Content Structure (Category Pages) -->
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/articles/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/gift-city-products/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/eams-gateway/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/investment-process/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/tax-regulatory/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-tresowealth/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/faq/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Future pages to be added (Phase 3-6): -->
   <!-- - Gift City Products (6 articles) -->
   <!-- - EAMs & Gateway (3 articles) -->
