@@ -242,7 +242,93 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Future pages to be added (Phase 5-6): -->
+  <!-- Phase 5: Why India (10 articles) -->
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/india-demographic-dividend-2026/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/india-gdp-growth-2026/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/india-vs-china-demographics/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/india-manufacturing-revival/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/digital-infrastructure-boom/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/financial-services-growth/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/real-estate-reit-aif/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/healthcare-life-sciences/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/infra-logistics-aif/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-india/renewable-energy-transition/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Phase 5: Why TresoWealth (2 articles) -->
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-tresowealth/tresowealth-analytics-moat/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/why-tresowealth/math-engine-monte-carlo/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Future pages to be added (Phase 6): -->
   <!-- - Gift City Products (6 articles) -->
   <!-- - EAMs & Gateway (3 articles) -->
   <!-- - Investment Process (10 articles) -->
