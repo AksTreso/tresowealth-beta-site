@@ -328,13 +328,39 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Future pages to be added (Phase 6): -->
-  <!-- - Gift City Products (6 articles) -->
-  <!-- - EAMs & Gateway (3 articles) -->
-  <!-- - Investment Process (10 articles) -->
-  <!-- - Tax & Regulatory (6 articles) -->
-  <!-- - Why India (10 articles) -->
-  <!-- - Why TresoWealth (2 articles) -->
-  <!-- - FAQ (5 pages) -->
-  <!-- Total: 42 new pages planned -->
+  <!-- Phase 6: FAQ Pages (5 pages) -->
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/faq/gift-city-fundamentals/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/faq/investment-products/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/faq/taxation-detailed/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/faq/onboarding-process/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tresowealth-beta-site.akshay-randeva.workers.dev/faq/eams-family-offices/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
