@@ -14,3 +14,25 @@
 2026-04-28 08:20:09,535 - INFO - ✓ Copied 39 rewritten articles
 2026-04-28 08:20:09,535 - INFO - 
 2026-04-28 08:20:09,535 - INFO - Step 4: Staging changes for commit...
+2026-04-28 08:20:09,577 - INFO - ✓ Changes staged
+2026-04-28 08:20:09,578 - INFO - 
+2026-04-28 08:20:09,578 - INFO - Step 5: Committing changes...
+2026-04-28 08:20:09,627 - INFO - ✓ Changes committed
+2026-04-28 08:20:09,627 - INFO - 
+2026-04-28 08:20:09,627 - INFO - Step 6: Pushing to demo branch (triggers Cloudflare Pages preview)...
+2026-04-28 08:20:12,640 - INFO - ✓ Pushed to demo branch
+2026-04-28 08:20:12,640 - INFO - 
+2026-04-28 08:20:12,640 - INFO - ================================================================================
+2026-04-28 08:20:12,640 - INFO - DEPLOYMENT COMPLETE!
+2026-04-28 08:20:12,640 - INFO - ================================================================================
+2026-04-28 08:20:12,640 - INFO - 
+2026-04-28 08:20:12,640 - INFO - ✓ Rewritten articles deployed to demo branch
+2026-04-28 08:20:12,640 - INFO - ✓ Cloudflare Pages is auto-deploying preview site
+2026-04-28 08:20:12,640 - INFO - 
+2026-04-28 08:20:12,640 - INFO - NEXT STEPS:
+2026-04-28 08:20:12,640 - INFO - 1. Go to Cloudflare Dashboard → Pages → tresowealth-beta-site
+2026-04-28 08:20:12,640 - INFO - 2. Find latest deployment for demo branch
+2026-04-28 08:20:12,640 - INFO - 3. Click preview URL to review rewritten articles
+2026-04-28 08:20:12,640 - INFO - 4. After approval, merge to main:
+2026-04-28 08:20:12,640 - INFO -    git checkout main && git merge demo && git push origin main
+2026-04-28 08:20:12,640 - INFO - 
