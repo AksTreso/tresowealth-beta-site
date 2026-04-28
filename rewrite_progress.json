@@ -1,0 +1,213 @@
+{
+  "total": 41,
+  "success": 0,
+  "failed": 41,
+  "skipped": 0,
+  "articles": [
+    {
+      "status": "failed",
+      "article": "gift-city-products/category-1-alternatives.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/gift-city-aif-products.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/how-to-invest.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/tax-benefits.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/indian-fund-managers.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/gift-city-aif-for-eams.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/uae-residents-investment-process.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/how-foreigners-invest-gift-city-aif.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/kyc-non-indian-residents.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/eams-onboarding.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/gift-city-aif-vs-benchmarks.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/mainland-vs-gift-city-comparison.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/best-gift-city-aif-options-2026.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/repatriation-taxes-minimums.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/account-opening-foreigners.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/gift-city-aif-fees-costs.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "tax-regulatory/gcc-family-offices-tax-guide.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "tax-regulatory/difc-eams-tax-guide.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "tax-regulatory/saudi-hni-tax-guide.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "tax-regulatory/uae-residents-tax-guide.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "tax-regulatory/dubai-hni-tax-guide.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/india-manufacturing-revival.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/india-demographic-dividend-2026.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/healthcare-life-sciences.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/digital-infrastructure-boom.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/renewable-energy-transition.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/financial-services-growth.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/infra-logistics-aif.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/real-estate-reit-aif.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/india-vs-china-demographics.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/india-gdp-growth-2026.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "faq/taxation-detailed.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "faq/eams-family-offices.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "faq/investment-products.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "faq/gift-city-fundamentals.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "faq/onboarding-process.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "eams-gateway/gift-city-gateway-indian-markets.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "eams-gateway/why-gift-city-india-allocation.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "eams-gateway/gift-city-ideal-route-eams.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-tresowealth/math-engine-monte-carlo.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    },
+    {
+      "status": "failed",
+      "article": "why-tresowealth/tresowealth-analytics-moat.html",
+      "error": "cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "registry_id": "pub_20260426_105127_P1_001",
+      "timestamp_utc": "2026-04-26T10:51:27.736896+00:00",
+      "brief_id": "P1_001",
+      "title": "GIFT City AIF Products Complete Guide",
+      "branch": "demo",
+      "commit_sha": "0424d25a727ceb3b0d94776a1cd30652c8e79897",
+      "file_path": "gift-city-products/gift-city-aif-products/index.html",
+      "url": "https://tresowealth-beta-site.pages.dev/gift-city-products/gift-city-aif-products/",
+      "canonical_url": "https://tresowealth-beta-site.pages.dev/gift-city-products/gift-city-aif-products/",
+      "quality": {
+        "passed": true,
+        "warnings": []
+      },
+      "status": "replaced_stub"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+2026-04-28 08:20:09,383 - INFO - ================================================================================
+2026-04-28 08:20:09,383 - INFO - STEVE V6: BATCH REWRITE DEPLOYMENT TO DEMO BRANCH
+2026-04-28 08:20:09,383 - INFO - ================================================================================
+2026-04-28 08:20:09,383 - INFO - Repository: /home/ubuntu/clawd/tresowealth-beta-site
+2026-04-28 08:20:09,383 - INFO - Target: demo branch (preview site)
+2026-04-28 08:20:09,383 - INFO - 
+2026-04-28 08:20:09,383 - INFO - Step 1: Verifying current branch...
+2026-04-28 08:20:09,385 - INFO - ✓ Current branch: demo
+2026-04-28 08:20:09,385 - INFO - 
+2026-04-28 08:20:09,385 - INFO - Step 2: Backing up original articles...
+2026-04-28 08:20:09,480 - INFO - ✓ Backed up 52 original articles
+2026-04-28 08:20:09,480 - INFO - 
+2026-04-28 08:20:09,480 - INFO - Step 3: Copying rewritten articles to main directories...
+2026-04-28 08:20:09,535 - INFO - ✓ Copied 39 rewritten articles
+2026-04-28 08:20:09,535 - INFO - 
+2026-04-28 08:20:09,535 - INFO - Step 4: Staging changes for commit...

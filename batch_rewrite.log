@@ -1,0 +1,194 @@
+2026-04-28 05:08:53,002 - INFO - ================================================================================
+2026-04-28 05:08:53,002 - INFO - SAFE BATCH ARTICLE REWRITER v1.0
+2026-04-28 05:08:53,002 - INFO - ================================================================================
+2026-04-28 05:08:53,002 - INFO - Repository: /home/ubuntu/clawd/tresowealth-beta-site
+2026-04-28 05:08:53,002 - INFO - Current branch: demo (preview deployment)
+2026-04-28 05:08:53,002 - INFO - Output directory: /home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2
+2026-04-28 05:08:53,002 - INFO - Scanning repository: /home/ubuntu/clawd/tresowealth-beta-site
+2026-04-28 05:08:53,023 - INFO - Discovered 41 articles
+2026-04-28 05:08:53,024 - INFO - Starting batch rewrite of 41 articles
+2026-04-28 05:08:53,024 - INFO - Output directory: /home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2
+2026-04-28 05:08:53,024 - INFO - 
+[1/41] Processing article
+2026-04-28 05:08:53,024 - INFO - Processing: gift-city-products/category-1-alternatives.html
+2026-04-28 05:08:53,024 - ERROR - ❌ Error processing gift-city-products/category-1-alternatives.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,024 - INFO - 
+[2/41] Processing article
+2026-04-28 05:08:53,025 - INFO - Processing: gift-city-products/gift-city-aif-products.html
+2026-04-28 05:08:53,025 - ERROR - ❌ Error processing gift-city-products/gift-city-aif-products.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,025 - INFO - 
+[3/41] Processing article
+2026-04-28 05:08:53,025 - INFO - Processing: gift-city-products/how-to-invest.html
+2026-04-28 05:08:53,025 - ERROR - ❌ Error processing gift-city-products/how-to-invest.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,025 - INFO - 
+[4/41] Processing article
+2026-04-28 05:08:53,025 - INFO - Processing: gift-city-products/tax-benefits.html
+2026-04-28 05:08:53,025 - ERROR - ❌ Error processing gift-city-products/tax-benefits.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,025 - INFO - 
+[5/41] Processing article
+2026-04-28 05:08:53,025 - INFO - Processing: gift-city-products/indian-fund-managers.html
+2026-04-28 05:08:53,025 - ERROR - ❌ Error processing gift-city-products/indian-fund-managers.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,025 - INFO - 
+[6/41] Processing article
+2026-04-28 05:08:53,025 - INFO - Processing: gift-city-products/gift-city-aif-for-eams.html
+2026-04-28 05:08:53,025 - ERROR - ❌ Error processing gift-city-products/gift-city-aif-for-eams.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,026 - INFO - 
+[7/41] Processing article
+2026-04-28 05:08:53,026 - INFO - Processing: investment-process/uae-residents-investment-process.html
+2026-04-28 05:08:53,026 - ERROR - ❌ Error processing investment-process/uae-residents-investment-process.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,026 - INFO - 
+[8/41] Processing article
+2026-04-28 05:08:53,026 - INFO - Processing: investment-process/how-foreigners-invest-gift-city-aif.html
+2026-04-28 05:08:53,026 - ERROR - ❌ Error processing investment-process/how-foreigners-invest-gift-city-aif.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,026 - INFO - 
+[9/41] Processing article
+2026-04-28 05:08:53,026 - INFO - Processing: investment-process/kyc-non-indian-residents.html
+2026-04-28 05:08:53,026 - ERROR - ❌ Error processing investment-process/kyc-non-indian-residents.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,026 - INFO - 
+[10/41] Processing article
+2026-04-28 05:08:53,026 - INFO - Processing: investment-process/eams-onboarding.html
+2026-04-28 05:08:53,026 - ERROR - ❌ Error processing investment-process/eams-onboarding.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,026 - INFO - Progress saved to: /home/ubuntu/clawd/tresowealth-beta-site/rewrite_progress.json
+2026-04-28 05:08:53,026 - INFO - Progress saved: 10/41 articles processed
+2026-04-28 05:08:53,027 - INFO - 
+[11/41] Processing article
+2026-04-28 05:08:53,027 - INFO - Processing: investment-process/gift-city-aif-vs-benchmarks.html
+2026-04-28 05:08:53,027 - ERROR - ❌ Error processing investment-process/gift-city-aif-vs-benchmarks.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,027 - INFO - 
+[12/41] Processing article
+2026-04-28 05:08:53,027 - INFO - Processing: investment-process/mainland-vs-gift-city-comparison.html
+2026-04-28 05:08:53,027 - ERROR - ❌ Error processing investment-process/mainland-vs-gift-city-comparison.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,027 - INFO - 
+[13/41] Processing article
+2026-04-28 05:08:53,027 - INFO - Processing: investment-process/best-gift-city-aif-options-2026.html
+2026-04-28 05:08:53,027 - ERROR - ❌ Error processing investment-process/best-gift-city-aif-options-2026.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,027 - INFO - 
+[14/41] Processing article
+2026-04-28 05:08:53,027 - INFO - Processing: investment-process/repatriation-taxes-minimums.html
+2026-04-28 05:08:53,027 - ERROR - ❌ Error processing investment-process/repatriation-taxes-minimums.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,027 - INFO - 
+[15/41] Processing article
+2026-04-28 05:08:53,027 - INFO - Processing: investment-process/account-opening-foreigners.html
+2026-04-28 05:08:53,027 - ERROR - ❌ Error processing investment-process/account-opening-foreigners.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,027 - INFO - 
+[16/41] Processing article
+2026-04-28 05:08:53,028 - INFO - Processing: investment-process/gift-city-aif-fees-costs.html
+2026-04-28 05:08:53,028 - ERROR - ❌ Error processing investment-process/gift-city-aif-fees-costs.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,028 - INFO - 
+[17/41] Processing article
+2026-04-28 05:08:53,028 - INFO - Processing: tax-regulatory/gcc-family-offices-tax-guide.html
+2026-04-28 05:08:53,028 - ERROR - ❌ Error processing tax-regulatory/gcc-family-offices-tax-guide.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,028 - INFO - 
+[18/41] Processing article
+2026-04-28 05:08:53,028 - INFO - Processing: tax-regulatory/difc-eams-tax-guide.html
+2026-04-28 05:08:53,028 - ERROR - ❌ Error processing tax-regulatory/difc-eams-tax-guide.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,028 - INFO - 
+[19/41] Processing article
+2026-04-28 05:08:53,028 - INFO - Processing: tax-regulatory/saudi-hni-tax-guide.html
+2026-04-28 05:08:53,028 - ERROR - ❌ Error processing tax-regulatory/saudi-hni-tax-guide.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,028 - INFO - 
+[20/41] Processing article
+2026-04-28 05:08:53,028 - INFO - Processing: tax-regulatory/uae-residents-tax-guide.html
+2026-04-28 05:08:53,028 - ERROR - ❌ Error processing tax-regulatory/uae-residents-tax-guide.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,029 - INFO - Progress saved to: /home/ubuntu/clawd/tresowealth-beta-site/rewrite_progress.json
+2026-04-28 05:08:53,029 - INFO - Progress saved: 20/41 articles processed
+2026-04-28 05:08:53,029 - INFO - 
+[21/41] Processing article
+2026-04-28 05:08:53,029 - INFO - Processing: tax-regulatory/dubai-hni-tax-guide.html
+2026-04-28 05:08:53,029 - ERROR - ❌ Error processing tax-regulatory/dubai-hni-tax-guide.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,029 - INFO - 
+[22/41] Processing article
+2026-04-28 05:08:53,029 - INFO - Processing: why-india/india-manufacturing-revival.html
+2026-04-28 05:08:53,029 - ERROR - ❌ Error processing why-india/india-manufacturing-revival.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,029 - INFO - 
+[23/41] Processing article
+2026-04-28 05:08:53,029 - INFO - Processing: why-india/india-demographic-dividend-2026.html
+2026-04-28 05:08:53,029 - ERROR - ❌ Error processing why-india/india-demographic-dividend-2026.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,029 - INFO - 
+[24/41] Processing article
+2026-04-28 05:08:53,029 - INFO - Processing: why-india/healthcare-life-sciences.html
+2026-04-28 05:08:53,029 - ERROR - ❌ Error processing why-india/healthcare-life-sciences.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,030 - INFO - 
+[25/41] Processing article
+2026-04-28 05:08:53,030 - INFO - Processing: why-india/digital-infrastructure-boom.html
+2026-04-28 05:08:53,030 - ERROR - ❌ Error processing why-india/digital-infrastructure-boom.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,030 - INFO - 
+[26/41] Processing article
+2026-04-28 05:08:53,030 - INFO - Processing: why-india/renewable-energy-transition.html
+2026-04-28 05:08:53,030 - ERROR - ❌ Error processing why-india/renewable-energy-transition.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,030 - INFO - 
+[27/41] Processing article
+2026-04-28 05:08:53,030 - INFO - Processing: why-india/financial-services-growth.html
+2026-04-28 05:08:53,030 - ERROR - ❌ Error processing why-india/financial-services-growth.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,030 - INFO - 
+[28/41] Processing article
+2026-04-28 05:08:53,030 - INFO - Processing: why-india/infra-logistics-aif.html
+2026-04-28 05:08:53,030 - ERROR - ❌ Error processing why-india/infra-logistics-aif.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,030 - INFO - 
+[29/41] Processing article
+2026-04-28 05:08:53,030 - INFO - Processing: why-india/real-estate-reit-aif.html
+2026-04-28 05:08:53,030 - ERROR - ❌ Error processing why-india/real-estate-reit-aif.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,030 - INFO - 
+[30/41] Processing article
+2026-04-28 05:08:53,030 - INFO - Processing: why-india/india-vs-china-demographics.html
+2026-04-28 05:08:53,031 - ERROR - ❌ Error processing why-india/india-vs-china-demographics.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,031 - INFO - Progress saved to: /home/ubuntu/clawd/tresowealth-beta-site/rewrite_progress.json
+2026-04-28 05:08:53,031 - INFO - Progress saved: 30/41 articles processed
+2026-04-28 05:08:53,031 - INFO - 
+[31/41] Processing article
+2026-04-28 05:08:53,031 - INFO - Processing: why-india/india-gdp-growth-2026.html
+2026-04-28 05:08:53,031 - ERROR - ❌ Error processing why-india/india-gdp-growth-2026.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,031 - INFO - 
+[32/41] Processing article
+2026-04-28 05:08:53,031 - INFO - Processing: faq/taxation-detailed.html
+2026-04-28 05:08:53,031 - ERROR - ❌ Error processing faq/taxation-detailed.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,031 - INFO - 
+[33/41] Processing article
+2026-04-28 05:08:53,031 - INFO - Processing: faq/eams-family-offices.html
+2026-04-28 05:08:53,031 - ERROR - ❌ Error processing faq/eams-family-offices.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,032 - INFO - 
+[34/41] Processing article
+2026-04-28 05:08:53,032 - INFO - Processing: faq/investment-products.html
+2026-04-28 05:08:53,032 - ERROR - ❌ Error processing faq/investment-products.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,032 - INFO - 
+[35/41] Processing article
+2026-04-28 05:08:53,032 - INFO - Processing: faq/gift-city-fundamentals.html
+2026-04-28 05:08:53,032 - ERROR - ❌ Error processing faq/gift-city-fundamentals.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,032 - INFO - 
+[36/41] Processing article
+2026-04-28 05:08:53,032 - INFO - Processing: faq/onboarding-process.html
+2026-04-28 05:08:53,032 - ERROR - ❌ Error processing faq/onboarding-process.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,032 - INFO - 
+[37/41] Processing article
+2026-04-28 05:08:53,032 - INFO - Processing: eams-gateway/gift-city-gateway-indian-markets.html
+2026-04-28 05:08:53,032 - ERROR - ❌ Error processing eams-gateway/gift-city-gateway-indian-markets.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,032 - INFO - 
+[38/41] Processing article
+2026-04-28 05:08:53,032 - INFO - Processing: eams-gateway/why-gift-city-india-allocation.html
+2026-04-28 05:08:53,032 - ERROR - ❌ Error processing eams-gateway/why-gift-city-india-allocation.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,032 - INFO - 
+[39/41] Processing article
+2026-04-28 05:08:53,032 - INFO - Processing: eams-gateway/gift-city-ideal-route-eams.html
+2026-04-28 05:08:53,032 - ERROR - ❌ Error processing eams-gateway/gift-city-ideal-route-eams.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,032 - INFO - 
+[40/41] Processing article
+2026-04-28 05:08:53,032 - INFO - Processing: why-tresowealth/math-engine-monte-carlo.html
+2026-04-28 05:08:53,033 - ERROR - ❌ Error processing why-tresowealth/math-engine-monte-carlo.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,033 - INFO - Progress saved to: /home/ubuntu/clawd/tresowealth-beta-site/rewrite_progress.json
+2026-04-28 05:08:53,033 - INFO - Progress saved: 40/41 articles processed
+2026-04-28 05:08:53,033 - INFO - 
+[41/41] Processing article
+2026-04-28 05:08:53,033 - INFO - Processing: why-tresowealth/tresowealth-analytics-moat.html
+2026-04-28 05:08:53,033 - ERROR - ❌ Error processing why-tresowealth/tresowealth-analytics-moat.html: cannot import name 'Stevev6' from 'steve' (/home/ubuntu/clawd/agents-v5.3/steve/__init__.py)
+2026-04-28 05:08:53,034 - INFO - Progress saved to: /home/ubuntu/clawd/tresowealth-beta-site/rewrite_progress.json
+2026-04-28 05:08:53,034 - INFO - Report saved to: /home/ubuntu/clawd/tresowealth-beta-site/BATCH_REWRITE_REPORT.md
+2026-04-28 05:08:53,034 - INFO - 
+================================================================================
+2026-04-28 05:08:53,034 - INFO - BATCH REWRITE COMPLETE
+2026-04-28 05:08:53,034 - INFO - ================================================================================
+2026-04-28 05:08:53,034 - INFO - 
+Next steps:
+2026-04-28 05:08:53,034 - INFO - 1. Review rewritten articles in steve_rewrites_v2/
+2026-04-28 05:08:53,034 - INFO - 2. Copy to main directories: rsync -av steve_rewrites_v2/ .
+2026-04-28 05:08:53,034 - INFO - 3. Commit and push to demo branch for preview site
+2026-04-28 05:08:53,034 - INFO - 4. Review preview site, then merge to main for production
