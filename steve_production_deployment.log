@@ -1,0 +1,50 @@
+2026-04-28 09:25:36,573 - INFO - ================================================================================
+2026-04-28 09:25:36,574 - INFO - STEVE V6: PRODUCTION DEPLOYMENT (MERGE DEMO → MAIN)
+2026-04-28 09:25:36,574 - INFO - ================================================================================
+2026-04-28 09:25:36,574 - INFO - Repository: /home/ubuntu/clawd/tresowealth-beta-site
+2026-04-28 09:25:36,574 - INFO - This action merges demo branch to main for production deployment
+2026-04-28 09:25:36,574 - INFO - 
+2026-04-28 09:25:36,574 - INFO - Step 1: Verifying current branch...
+2026-04-28 09:25:36,587 - INFO - ✓ Current branch: demo
+2026-04-28 09:25:36,587 - INFO - 
+2026-04-28 09:25:36,587 - INFO - Step 2: Switching to main branch...
+2026-04-28 09:25:36,601 - ERROR - Deployment failed: Command '['git', 'checkout', 'main']' returned non-zero exit status 1.
+2026-04-28 09:25:36,602 - ERROR - stderr: error: Your local changes to the following files would be overwritten by checkout:
+	steve_deployment.log
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+2026-04-28 09:26:09,378 - INFO - ================================================================================
+2026-04-28 09:26:09,378 - INFO - STEVE V6: PRODUCTION DEPLOYMENT (MERGE DEMO → MAIN)
+2026-04-28 09:26:09,378 - INFO - ================================================================================
+2026-04-28 09:26:09,378 - INFO - Repository: /home/ubuntu/clawd/tresowealth-beta-site
+2026-04-28 09:26:09,378 - INFO - This action merges demo branch to main for production deployment
+2026-04-28 09:26:09,378 - INFO - 
+2026-04-28 09:26:09,378 - INFO - Step 1: Verifying current branch...
+2026-04-28 09:26:09,380 - INFO - ✓ Current branch: demo
+2026-04-28 09:26:09,380 - INFO - 
+2026-04-28 09:26:09,380 - INFO - Step 2: Switching to main branch...
+2026-04-28 09:26:09,391 - INFO - ✓ Switched to main branch
+2026-04-28 09:26:09,391 - INFO - 
+2026-04-28 09:26:09,391 - INFO - Step 3: Merging demo branch into main...
+2026-04-28 09:26:09,446 - INFO - ✓ Merged demo → main
+2026-04-28 09:26:09,446 - INFO - 
+2026-04-28 09:26:09,446 - INFO - Step 4: Pushing to main branch (triggers Cloudflare Pages production)...
+2026-04-28 09:26:11,524 - INFO - ✓ Pushed to main branch
+2026-04-28 09:26:11,524 - INFO - 
+2026-04-28 09:26:11,524 - INFO - Step 5: Switching back to demo branch...
+2026-04-28 09:26:11,533 - INFO - ✓ Switched back to demo branch
+2026-04-28 09:26:11,533 - INFO - 
+2026-04-28 09:26:11,533 - INFO - ================================================================================
+2026-04-28 09:26:11,533 - INFO - PRODUCTION DEPLOYMENT COMPLETE!
+2026-04-28 09:26:11,533 - INFO - ================================================================================
+2026-04-28 09:26:11,533 - INFO - 
+2026-04-28 09:26:11,533 - INFO - ✓ demo branch merged to main
+2026-04-28 09:26:11,534 - INFO - ✓ Cloudflare Pages is deploying to production
+2026-04-28 09:26:11,534 - INFO - ✓ Live site will be updated within 1-2 minutes
+2026-04-28 09:26:11,534 - INFO - 
+2026-04-28 09:26:11,534 - INFO - VERIFY:
+2026-04-28 09:26:11,534 - INFO - 1. Check Cloudflare Dashboard for deployment status
+2026-04-28 09:26:11,534 - INFO - 2. Visit production site: https://tresowealth.com
+2026-04-28 09:26:11,534 - INFO - 3. Verify articles are live and working correctly
+2026-04-28 09:26:11,534 - INFO - 

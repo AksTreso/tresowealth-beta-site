@@ -1,0 +1,312 @@
+2026-04-28 16:22:34,374 - INFO - ================================================================================
+2026-04-28 16:22:34,375 - INFO - SIMPLE BATCH ARTICLE REWRITER v1.0
+2026-04-28 16:22:34,375 - INFO - ================================================================================
+2026-04-28 16:22:34,375 - INFO - Repository: /home/ubuntu/clawd/tresowealth-beta-site
+2026-04-28 16:22:34,375 - INFO - Output directory: /home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2
+2026-04-28 16:22:34,375 - INFO - Scanning repository: /home/ubuntu/clawd/tresowealth-beta-site
+2026-04-28 16:22:34,422 - INFO - Discovered 89 articles
+2026-04-28 16:22:34,423 - INFO - Starting batch rewrite of 89 articles
+2026-04-28 16:22:34,423 - INFO - Output directory: /home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2
+2026-04-28 16:22:34,423 - INFO - 
+[1/89] Processing article
+2026-04-28 16:22:34,423 - INFO - Processing: gift-city-products/category-1-alternatives.html.backup.html
+2026-04-28 16:22:34,507 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:22:34,516 - INFO - Enhanced Researcher v4 initialized with 4 custom agents
+2026-04-28 16:22:34,516 - INFO - Running enhanced research for: GIFT CITY Category I AIFs: Venture Capital & Startups 
+2026-04-28 16:22:34,516 - INFO - Starting enhanced research: GIFT CITY Category I AIFs: Venture Capital & Startups 
+2026-04-28 16:22:34,516 - INFO - Running statistics agent...
+2026-04-28 16:22:34,516 - INFO - StatisticsHunterAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+2026-04-28 16:22:34,516 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-28 16:22:34,518 - INFO - Running regulatory agent...
+2026-04-28 16:22:34,518 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+2026-04-28 16:22:34,518 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-28 16:22:34,518 - INFO - Running benchmark agent...
+2026-04-28 16:22:34,522 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+2026-04-28 16:22:34,522 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-28 16:22:34,518 - INFO - Running case_study agent...
+2026-04-28 16:22:34,525 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+2026-04-28 16:22:34,525 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-28 16:22:36,432 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:36,460 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:36,852 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:37,012 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:37,766 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:37,862 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:38,263 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:38,355 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:39,155 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:39,400 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:39,638 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:39,981 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:40,581 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:40,900 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:41,282 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:41,799 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:42,275 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:42,279 - INFO - RegulatoryDetectiveAgent: Extracted 1 findings
+2026-04-28 16:22:42,279 - INFO - regulatory agent completed: 1 findings
+2026-04-28 16:22:42,720 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:42,723 - INFO - StatisticsHunterAgent: Extracted 5 findings
+2026-04-28 16:22:42,723 - INFO - statistics agent completed: 5 findings
+2026-04-28 16:22:42,893 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:42,895 - INFO - BenchmarkAnalystAgent: Extracted 5 findings
+2026-04-28 16:22:42,895 - INFO - benchmark agent completed: 5 findings
+2026-04-28 16:22:43,310 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:22:43,311 - INFO - CaseStudyExplorerAgent: Extracted 0 findings
+2026-04-28 16:22:43,311 - INFO - case_study agent completed: 0 findings
+2026-04-28 16:22:43,311 - INFO - Enhanced research complete: 11 findings in 8.8s
+2026-04-28 16:22:43,313 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:22:43,313 - INFO - 🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+2026-04-28 16:24:27,546 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 16:24:27,547 - INFO - ✅ Successfully rewritten: gift-city-products/category-1-alternatives.html.backup.html
+2026-04-28 16:24:27,548 - INFO - 
+[2/89] Processing article
+2026-04-28 16:24:27,548 - INFO - Processing: gift-city-products/category-1-alternatives.html
+2026-04-28 16:24:27,549 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:24:27,549 - INFO - Enhanced Researcher v4 initialized with 4 custom agents
+2026-04-28 16:24:27,549 - INFO - Running enhanced research for: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-28 16:24:27,549 - INFO - Starting enhanced research: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-28 16:24:27,550 - INFO - Running statistics agent...
+2026-04-28 16:24:27,550 - INFO - Running regulatory agent...
+2026-04-28 16:24:27,550 - INFO - StatisticsHunterAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-28 16:24:27,550 - INFO - Running benchmark agent...
+2026-04-28 16:24:27,550 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-28 16:24:27,550 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-28 16:24:27,550 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-28 16:24:27,550 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-28 16:24:27,550 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-28 16:24:27,550 - INFO - Running case_study agent...
+2026-04-28 16:24:27,551 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-28 16:24:27,551 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-28 16:24:28,398 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:28,436 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:28,456 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:28,460 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,041 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,047 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,084 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,225 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,634 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,651 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,716 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:29,800 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:30,273 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:30,285 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:30,459 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:30,804 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:30,857 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:30,857 - INFO - CaseStudyExplorerAgent: Extracted 0 findings
+2026-04-28 16:24:30,857 - INFO - case_study agent completed: 0 findings
+2026-04-28 16:24:30,893 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:30,895 - INFO - StatisticsHunterAgent: Extracted 5 findings
+2026-04-28 16:24:30,895 - INFO - statistics agent completed: 5 findings
+2026-04-28 16:24:31,060 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:31,061 - INFO - RegulatoryDetectiveAgent: Extracted 1 findings
+2026-04-28 16:24:31,062 - INFO - regulatory agent completed: 1 findings
+2026-04-28 16:24:31,422 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-28 16:24:31,423 - INFO - BenchmarkAnalystAgent: Extracted 5 findings
+2026-04-28 16:24:31,423 - INFO - benchmark agent completed: 5 findings
+2026-04-28 16:24:31,424 - INFO - Enhanced research complete: 11 findings in 3.9s
+2026-04-28 16:24:31,425 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:24:31,425 - INFO - 🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+2026-04-28 16:26:21,394 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 16:26:21,395 - INFO - ✅ Successfully rewritten: gift-city-products/category-1-alternatives.html
+2026-04-28 16:26:21,396 - INFO - 
+[3/89] Processing article
+2026-04-28 16:26:21,396 - INFO - Processing: gift-city-products/gift-city-aif-products.html
+2026-04-28 16:26:21,397 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:26:21,397 - INFO - Enhanced Researcher v4 initialized with 4 custom agents
+2026-04-28 16:26:21,397 - INFO - Running enhanced research for: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-28 16:26:21,397 - INFO - Starting enhanced research: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-28 16:26:21,398 - INFO - Running statistics agent...
+2026-04-28 16:26:21,398 - INFO - Running regulatory agent...
+2026-04-28 16:26:21,398 - INFO - StatisticsHunterAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-28 16:26:21,398 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-28 16:26:21,398 - INFO - Running benchmark agent...
+2026-04-28 16:26:21,400 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-28 16:26:21,400 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-28 16:26:21,398 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-28 16:26:21,401 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-28 16:26:21,398 - INFO - Running case_study agent...
+2026-04-28 16:26:21,401 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-28 16:26:21,402 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-28 16:26:22,172 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:22,179 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:22,183 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:22,942 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:22,947 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:22,957 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:23,487 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:23,715 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:23,721 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:23,725 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:24,253 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:24,484 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:24,494 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:25,001 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:25,011 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:25,244 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:25,244 - WARNING - RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+2026-04-28 16:26:25,244 - INFO - 🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+2026-04-28 16:26:25,255 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:25,255 - WARNING - StatisticsHunterAgent: No sources found, using ClawRouter fallback
+2026-04-28 16:26:25,255 - INFO - 🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Pro...
+2026-04-28 16:26:25,759 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:25,760 - INFO - BenchmarkAnalystAgent: Extracted 0 findings
+2026-04-28 16:26:25,760 - INFO - benchmark agent completed: 0 findings
+2026-04-28 16:26:25,774 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:26,557 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-28 16:26:26,557 - INFO - CaseStudyExplorerAgent: Extracted 0 findings
+2026-04-28 16:26:26,557 - INFO - case_study agent completed: 0 findings
+2026-04-28 16:27:59,017 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 16:27:59,019 - INFO - RegulatoryDetectiveAgent: ClawRouter fallback returned 5 findings
+2026-04-28 16:27:59,019 - INFO - regulatory agent completed: 5 findings
+2026-04-28 16:29:02,793 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 16:29:02,794 - INFO - StatisticsHunterAgent: ClawRouter fallback returned 8 findings
+2026-04-28 16:29:02,795 - INFO - statistics agent completed: 8 findings
+2026-04-28 16:29:02,796 - INFO - Enhanced research complete: 13 findings in 161.4s
+2026-04-28 16:29:02,797 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:29:02,797 - INFO - 🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+2026-04-28 16:31:01,586 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 16:31:01,588 - INFO - ✅ Successfully rewritten: gift-city-products/gift-city-aif-products.html
+2026-04-28 16:31:01,588 - INFO - 
+[4/89] Processing article
+2026-04-28 16:31:01,588 - INFO - Processing: gift-city-products/index.html.backup.html
+2026-04-28 16:31:01,592 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:31:01,592 - INFO - Enhanced Researcher v4 initialized with 4 custom agents
+2026-04-28 16:31:01,592 - INFO - Running enhanced research for: GIFT City Products 
+2026-04-28 16:31:01,592 - INFO - Starting enhanced research: GIFT City Products 
+2026-04-28 16:31:01,593 - INFO - Running statistics agent...
+2026-04-28 16:31:01,593 - INFO - StatisticsHunterAgent starting research on: GIFT City Products 
+2026-04-28 16:31:01,593 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-28 16:31:01,593 - INFO - Running regulatory agent...
+2026-04-28 16:31:01,594 - INFO - RegulatoryDetectiveAgent starting research on: GIFT City Products 
+2026-04-28 16:31:01,594 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-28 16:31:01,595 - INFO - Running benchmark agent...
+2026-04-28 16:31:01,596 - INFO - BenchmarkAnalystAgent starting research on: GIFT City Products 
+2026-04-28 16:31:01,597 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-28 16:31:01,597 - INFO - Running case_study agent...
+2026-04-28 16:31:01,598 - INFO - CaseStudyExplorerAgent starting research on: GIFT City Products 
+2026-04-28 16:31:01,598 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-28 16:31:03,295 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT City Products  case study example...'
+2026-04-28 16:31:03,340 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT City Products  statistics data 2024...'
+2026-04-28 16:31:03,383 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT City Products  industry benchmark c...'
+2026-04-28 16:31:03,611 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT City Products  SEBI regulation noti...'
+2026-04-28 16:31:04,473 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT City Products  IFSCA guidelines not...'
+2026-04-28 16:31:04,714 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT City Products  AUM assets under man...'
+2026-04-28 16:31:04,957 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT City Products  versus competitors...'
+2026-04-28 16:31:05,059 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT City Products  success story family...'
+2026-04-28 16:31:06,196 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT City Products  growth rate CAGR mar...'
+2026-04-28 16:31:06,251 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT City Products  market average perfo...'
+2026-04-28 16:31:06,310 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT City Products  RBI compliance requi...'
+2026-04-28 16:31:06,375 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT City Products  institutional invest...'
+2026-04-28 16:31:07,640 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT City Products  investor count fund ...'
+2026-04-28 16:31:07,706 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT City Products  ranking position Ind...'
+2026-04-28 16:31:07,756 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT City Products  deployment allocatio...'
+2026-04-28 16:31:07,902 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT City Products  tax notification sec...'
+2026-04-28 16:31:09,205 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT City Products  real investment exam...'
+2026-04-28 16:31:09,205 - INFO - CaseStudyExplorerAgent: Extracted 0 findings
+2026-04-28 16:31:09,205 - INFO - case_study agent completed: 0 findings
+2026-04-28 16:31:09,256 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT City Products  total corpus deploye...'
+2026-04-28 16:31:09,258 - INFO - StatisticsHunterAgent: Extracted 9 findings
+2026-04-28 16:31:09,258 - INFO - statistics agent completed: 9 findings
+2026-04-28 16:31:09,265 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT City Products  global standards com...'
+2026-04-28 16:31:09,266 - INFO - BenchmarkAnalystAgent: Extracted 5 findings
+2026-04-28 16:31:09,267 - INFO - benchmark agent completed: 5 findings
+2026-04-28 16:31:09,290 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT City Products  legal framework regu...'
+2026-04-28 16:31:09,291 - INFO - RegulatoryDetectiveAgent: Extracted 2 findings
+2026-04-28 16:31:09,291 - INFO - regulatory agent completed: 2 findings
+2026-04-28 16:31:09,292 - INFO - Enhanced research complete: 16 findings in 7.7s
+2026-04-28 16:31:09,293 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:31:09,294 - INFO - 🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+2026-04-28 16:32:57,824 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 16:32:57,826 - INFO - ✅ Successfully rewritten: gift-city-products/index.html.backup.html
+2026-04-28 16:32:57,826 - INFO - 
+[5/89] Processing article
+2026-04-28 16:32:57,826 - INFO - Processing: gift-city-products/how-to-invest.html
+2026-04-28 16:32:57,828 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 16:32:57,828 - INFO - Enhanced Researcher v4 initialized with 4 custom agents
+2026-04-28 16:32:57,828 - INFO - Running enhanced research for: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+2026-04-28 16:32:57,828 - INFO - Starting enhanced research: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+2026-04-28 16:32:57,828 - INFO - Running statistics agent...
+2026-04-28 16:32:57,828 - INFO - Running regulatory agent...
+2026-04-28 16:32:57,828 - INFO - StatisticsHunterAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+2026-04-28 16:32:57,829 - INFO - Running benchmark agent...
+2026-04-28 16:32:57,829 - INFO - RegulatoryDetectiveAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+2026-04-28 16:32:57,829 - INFO - Running case_study agent...
+2026-04-28 16:32:57,829 - INFO - CaseStudyExplorerAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+2026-04-28 16:32:57,829 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-28 16:32:57,829 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-28 16:32:57,829 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-28 16:32:57,829 - INFO - BenchmarkAnalystAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+2026-04-28 16:32:57,830 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-28 16:32:58,828 - INFO - BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:32:58,833 - INFO - RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:32:58,836 - INFO - StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:32:59,590 - INFO - BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:32:59,602 - INFO - StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:32:59,606 - INFO - RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:32:59,995 - INFO - CaseStudyExplorerAgent: 5 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:00,356 - INFO - BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:00,361 - INFO - StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:00,368 - INFO - RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:00,753 - INFO - CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:01,128 - INFO - StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:01,131 - INFO - RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:01,517 - INFO - CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:01,532 - INFO - BenchmarkAnalystAgent: 5 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++tax+notification+section&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++institutional+investor+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++legal+framework+regulatory&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++total+corpus+deployed&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++global+standards+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++deployment+allocation+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++real+investment+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++tax+notification+section&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++institutional+investor+example&count=5
+2026-04-28 16:33:01,896 - INFO - RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:01,896 - WARNING - RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+2026-04-28 16:33:01,896 - INFO - 🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+2026-04-28 16:33:01,901 - INFO - StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:01,901 - WARNING - StatisticsHunterAgent: No sources found, using ClawRouter fallback
+2026-04-28 16:33:01,901 - INFO - 🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about How to Invest...
+2026-04-28 16:33:02,282 - INFO - CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:02,293 - INFO - BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:02,293 - INFO - BenchmarkAnalystAgent: Extracted 0 findings
+2026-04-28 16:33:02,294 - INFO - benchmark agent completed: 0 findings
+2026-04-28 16:33:03,045 - INFO - CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+2026-04-28 16:33:03,045 - INFO - CaseStudyExplorerAgent: Extracted 0 findings
+2026-04-28 16:33:03,046 - INFO - case_study agent completed: 0 findings

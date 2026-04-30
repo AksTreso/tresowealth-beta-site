@@ -1,155 +1,78 @@
 {
-  "total": 41,
-  "success": 39,
-  "failed": 2,
+  "total": 89,
+  "success": 0,
+  "failed": 89,
   "skipped": 0,
   "articles": [
     {
-      "status": "success",
+      "status": "failed",
+      "article": "gift-city-products/category-1-alternatives.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "gift-city-products/category-1-alternatives.html",
-      "topic": "GIFT CITY Category I AIFs: Venture Capital & Startups ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/gift-city-products/category-1-alternatives.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/gift-city-products/category-1-alternatives.html",
-      "comparison": {
-        "original_word_count": 121,
-        "rewritten_word_count": 1652,
-        "statistics_found": 6,
-        "regulatory_refs": 11,
-        "custom_research_used": 10,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 8.280944
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "gift-city-products/gift-city-aif-products.html",
-      "topic": "GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026]",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/gift-city-products/gift-city-aif-products.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/gift-city-products/gift-city-aif-products.html",
-      "comparison": {
-        "original_word_count": 1105,
-        "rewritten_word_count": 1754,
-        "statistics_found": 19,
-        "regulatory_refs": 18,
-        "custom_research_used": 9,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 6.477972
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "gift-city-products/index.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "gift-city-products/how-to-invest.html",
-      "topic": "How to Invest in GIFT CITY AIFs: Step-by-Step Guide ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/gift-city-products/how-to-invest.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/gift-city-products/how-to-invest.html",
-      "comparison": {
-        "original_word_count": 122,
-        "rewritten_word_count": 1647,
-        "statistics_found": 0,
-        "regulatory_refs": 9,
-        "custom_research_used": 7,
-        "research_agents": [
-          "StatisticsHunterAgent",
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 7.261318
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "gift-city-products/tax-benefits.html",
-      "topic": "GIFT CITY Tax Benefits: 0% Capital Gains Explained ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/gift-city-products/tax-benefits.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/gift-city-products/tax-benefits.html",
-      "comparison": {
-        "original_word_count": 99,
-        "rewritten_word_count": 1994,
-        "statistics_found": 2,
-        "regulatory_refs": 24,
-        "custom_research_used": 4,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.834923
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "gift-city-products/gift-city-aif-products.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "gift-city-products/indian-fund-managers.html",
-      "topic": "Indian Fund Managers in GIFT City: Top Picks ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/gift-city-products/indian-fund-managers.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/gift-city-products/indian-fund-managers.html",
-      "comparison": {
-        "original_word_count": 139,
-        "rewritten_word_count": 1956,
-        "statistics_found": 19,
-        "regulatory_refs": 10,
-        "custom_research_used": 15,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 8.647814
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "gift-city-products/indian-fund-managers.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/how-to-invest.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/gift-city-aif-for-eams.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "gift-city-products/tax-benefits.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "gift-city-products/gift-city-aif-for-eams.html",
-      "topic": "GIFT City AIFs for EAMs: The Ideal Route ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/gift-city-products/gift-city-aif-for-eams.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/gift-city-products/gift-city-aif-for-eams.html",
-      "comparison": {
-        "original_word_count": 464,
-        "rewritten_word_count": 1835,
-        "statistics_found": 5,
-        "regulatory_refs": 11,
-        "custom_research_used": 14,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "CaseStudyExplorerAgent",
-          "RegulatoryDetectiveAgent"
-        ],
-        "research_time": 7.750331
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "investment-process/uae-residents-investment-process.html",
-      "topic": "GIFT CITY AIF Investment Process for UAE Residents ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/uae-residents-investment-process.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/uae-residents-investment-process.html",
-      "comparison": {
-        "original_word_count": 103,
-        "rewritten_word_count": 2105,
-        "statistics_found": 0,
-        "regulatory_refs": 10,
-        "custom_research_used": 8,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent",
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent"
-        ],
-        "research_time": 7.996671
-      }
+      "error": "No content generated"
     },
     {
       "status": "failed",
@@ -158,680 +81,373 @@
     },
     {
       "status": "failed",
+      "article": "investment-process/gift-city-aif-fees-costs.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/kyc-non-indian-residents.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/gift-city-aif-vs-benchmarks.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "investment-process/kyc-non-indian-residents.html",
       "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "investment-process/eams-onboarding.html",
-      "topic": "GIFT CITY AIF Onboarding for EAMs ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/eams-onboarding.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/eams-onboarding.html",
-      "comparison": {
-        "original_word_count": 123,
-        "rewritten_word_count": 1696,
-        "statistics_found": 8,
-        "regulatory_refs": 14,
-        "custom_research_used": 13,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "RegulatoryDetectiveAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.924991
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "investment-process/index.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/repatriation-taxes-minimums.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/best-gift-city-aif-options-2026.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "investment-process/gift-city-aif-vs-benchmarks.html",
-      "topic": "GIFT CITY AIFs vs Benchmarks ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/gift-city-aif-vs-benchmarks.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/gift-city-aif-vs-benchmarks.html",
-      "comparison": {
-        "original_word_count": 111,
-        "rewritten_word_count": 1732,
-        "statistics_found": 10,
-        "regulatory_refs": 9,
-        "custom_research_used": 11,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent",
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent"
-        ],
-        "research_time": 7.297301
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "investment-process/mainland-vs-gift-city-comparison.html",
-      "topic": "Mainland vs GIFT CITY AIF Comparison ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/mainland-vs-gift-city-comparison.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/mainland-vs-gift-city-comparison.html",
-      "comparison": {
-        "original_word_count": 80,
-        "rewritten_word_count": 1727,
-        "statistics_found": 3,
-        "regulatory_refs": 19,
-        "custom_research_used": 6,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 8.072217
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "investment-process/account-opening-foreigners.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "investment-process/best-gift-city-aif-options-2026.html",
-      "topic": "Best GIFT CITY AIF Options in 2026 ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/best-gift-city-aif-options-2026.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/best-gift-city-aif-options-2026.html",
-      "comparison": {
-        "original_word_count": 97,
-        "rewritten_word_count": 2075,
-        "statistics_found": 22,
-        "regulatory_refs": 3,
-        "custom_research_used": 9,
-        "research_agents": [
-          "StatisticsHunterAgent",
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "RegulatoryDetectiveAgent"
-        ],
-        "research_time": 7.187557
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "investment-process/eams-onboarding.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/how-foreigners-invest-gift-city-aif.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/uae-residents-investment-process.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "investment-process/mainland-vs-gift-city-comparison.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "investment-process/repatriation-taxes-minimums.html",
-      "topic": "GIFT CITY Repatriation, Taxes & Minimums ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/repatriation-taxes-minimums.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/repatriation-taxes-minimums.html",
-      "comparison": {
-        "original_word_count": 101,
-        "rewritten_word_count": 2118,
-        "statistics_found": 1,
-        "regulatory_refs": 8,
-        "custom_research_used": 7,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "RegulatoryDetectiveAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.412447
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "investment-process/account-opening-foreigners.html",
-      "topic": "GIFT CITY AIF Account Opening for Foreigners ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/account-opening-foreigners.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/account-opening-foreigners.html",
-      "comparison": {
-        "original_word_count": 110,
-        "rewritten_word_count": 1813,
-        "statistics_found": 3,
-        "regulatory_refs": 21,
-        "custom_research_used": 7,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 9.831899
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "investment-process/gift-city-aif-fees-costs.html",
-      "topic": "GIFT CITY AIF Fees & Costs Explained ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/investment-process/gift-city-aif-fees-costs.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/investment-process/gift-city-aif-fees-costs.html",
-      "comparison": {
-        "original_word_count": 115,
-        "rewritten_word_count": 2081,
-        "statistics_found": 2,
-        "regulatory_refs": 8,
-        "custom_research_used": 7,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.40881
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "tax-regulatory/gcc-family-offices-tax-guide.html",
-      "topic": "GIFT CITY AIF Tax Guide for GCC Family Offices ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/tax-regulatory/gcc-family-offices-tax-guide.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/tax-regulatory/gcc-family-offices-tax-guide.html",
-      "comparison": {
-        "original_word_count": 113,
-        "rewritten_word_count": 1733,
-        "statistics_found": 5,
-        "regulatory_refs": 16,
-        "custom_research_used": 5,
-        "research_agents": [
-          "StatisticsHunterAgent",
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent"
-        ],
-        "research_time": 7.171407
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "tax-regulatory/dubai-hni-tax-guide.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "tax-regulatory/difc-eams-tax-guide.html",
-      "topic": "GIFT CITY AIF Tax Guide for DIFC EAMs ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/tax-regulatory/difc-eams-tax-guide.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/tax-regulatory/difc-eams-tax-guide.html",
-      "comparison": {
-        "original_word_count": 127,
-        "rewritten_word_count": 1650,
-        "statistics_found": 9,
-        "regulatory_refs": 22,
-        "custom_research_used": 3,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 6.719178
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "tax-regulatory/index.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "tax-regulatory/difc-eams-tax-guide.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "tax-regulatory/saudi-hni-tax-guide.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "tax-regulatory/saudi-hni-tax-guide.html",
-      "topic": "GIFT CITY AIF Tax Guide for Saudi HNIs ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/tax-regulatory/saudi-hni-tax-guide.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/tax-regulatory/saudi-hni-tax-guide.html",
-      "comparison": {
-        "original_word_count": 112,
-        "rewritten_word_count": 1870,
-        "statistics_found": 9,
-        "regulatory_refs": 24,
-        "custom_research_used": 5,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "StatisticsHunterAgent",
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 7.370927
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "tax-regulatory/gcc-family-offices-tax-guide.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "tax-regulatory/uae-residents-tax-guide.html",
-      "topic": "GIFT CITY AIF Tax Guide for UAE Residents ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/tax-regulatory/uae-residents-tax-guide.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/tax-regulatory/uae-residents-tax-guide.html",
-      "comparison": {
-        "original_word_count": 136,
-        "rewritten_word_count": 1758,
-        "statistics_found": 3,
-        "regulatory_refs": 31,
-        "custom_research_used": 11,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 7.509165
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "tax-regulatory/dubai-hni-tax-guide.html",
-      "topic": "GIFT CITY AIF Tax Guide for Dubai HNIs ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/tax-regulatory/dubai-hni-tax-guide.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/tax-regulatory/dubai-hni-tax-guide.html",
-      "comparison": {
-        "original_word_count": 121,
-        "rewritten_word_count": 1905,
-        "statistics_found": 2,
-        "regulatory_refs": 11,
-        "custom_research_used": 4,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 6.922715
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "tax-regulatory/uae-residents-tax-guide.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "why-india/india-manufacturing-revival.html",
-      "topic": "India Manufacturing Revival 2026: 25% of GDP Target ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/india-manufacturing-revival.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/india-manufacturing-revival.html",
-      "comparison": {
-        "original_word_count": 122,
-        "rewritten_word_count": 1974,
-        "statistics_found": 9,
-        "regulatory_refs": 3,
-        "custom_research_used": 4,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent",
-          "RegulatoryDetectiveAgent"
-        ],
-        "research_time": 8.186168
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "why-india/india-demographic-dividend-2026.html",
-      "topic": "India's Demographic Dividend 2026: The 15-Year Window ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/india-demographic-dividend-2026.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/india-demographic-dividend-2026.html",
-      "comparison": {
-        "original_word_count": 178,
-        "rewritten_word_count": 1563,
-        "statistics_found": 1,
-        "regulatory_refs": 25,
-        "custom_research_used": 5,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 8.284098
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "why-india/healthcare-life-sciences.html",
-      "topic": "India Healthcare & Life Sciences 2026 ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/healthcare-life-sciences.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/healthcare-life-sciences.html",
-      "comparison": {
-        "original_word_count": 110,
-        "rewritten_word_count": 1781,
-        "statistics_found": 11,
-        "regulatory_refs": 27,
-        "custom_research_used": 14,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.538926
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "why-india/digital-infrastructure-boom.html",
-      "topic": "India's Digital Infrastructure Boom 2026 ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/digital-infrastructure-boom.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/digital-infrastructure-boom.html",
-      "comparison": {
-        "original_word_count": 108,
-        "rewritten_word_count": 1659,
-        "statistics_found": 20,
-        "regulatory_refs": 1,
-        "custom_research_used": 10,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 8.140493
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "why-india/renewable-energy-transition.html",
-      "topic": "India Renewable Energy Transition 2026 ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/renewable-energy-transition.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/renewable-energy-transition.html",
-      "comparison": {
-        "original_word_count": 120,
-        "rewritten_word_count": 1787,
-        "statistics_found": 7,
-        "regulatory_refs": 5,
-        "custom_research_used": 9,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent",
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent"
-        ],
-        "research_time": 7.647575
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "why-india/india-gdp-growth-2026.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "why-india/financial-services-growth.html",
-      "topic": "India Financial Services Growth 2026 ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/financial-services-growth.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/financial-services-growth.html",
-      "comparison": {
-        "original_word_count": 114,
-        "rewritten_word_count": 1632,
-        "statistics_found": 4,
-        "regulatory_refs": 14,
-        "custom_research_used": 17,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.415369
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "why-india/infra-logistics-aif.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/index.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "why-india/infra-logistics-aif.html",
-      "topic": "India Infrastructure & Logistics AIFs 2026 ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/infra-logistics-aif.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/infra-logistics-aif.html",
-      "comparison": {
-        "original_word_count": 103,
-        "rewritten_word_count": 1920,
-        "statistics_found": 15,
-        "regulatory_refs": 17,
-        "custom_research_used": 9,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 8.264531
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "why-india/real-estate-reit-aif.html",
-      "topic": "India Real Estate & REIT AIF Opportunities 2026 ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/real-estate-reit-aif.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/real-estate-reit-aif.html",
-      "comparison": {
-        "original_word_count": 111,
-        "rewritten_word_count": 1903,
-        "statistics_found": 5,
-        "regulatory_refs": 16,
-        "custom_research_used": 15,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.922225
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "why-india/india-vs-china-demographics.html",
-      "topic": "India vs China Demographics: Why India Now ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/india-vs-china-demographics.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/india-vs-china-demographics.html",
-      "comparison": {
-        "original_word_count": 105,
-        "rewritten_word_count": 1965,
-        "statistics_found": 1,
-        "regulatory_refs": 5,
-        "custom_research_used": 7,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.99615
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "why-india/renewable-energy-transition.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/financial-services-growth.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/real-estate-reit-aif.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/digital-infrastructure-boom.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/healthcare-life-sciences.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/india-demographic-dividend-2026.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-india/india-manufacturing-revival.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "why-india/india-gdp-growth-2026.html",
-      "topic": "India GDP Growth 2026: Why 7-8% Is Sustainable ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-india/india-gdp-growth-2026.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-india/india-gdp-growth-2026.html",
-      "comparison": {
-        "original_word_count": 130,
-        "rewritten_word_count": 1614,
-        "statistics_found": 3,
-        "regulatory_refs": 8,
-        "custom_research_used": 4,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 8.465096
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "why-india/india-vs-china-demographics.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "faq/gift-city-fundamentals.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "faq/taxation-detailed.html",
-      "topic": "Taxation FAQ: 0% LTCG, DTAA, Withholding Tax ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/faq/taxation-detailed.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/faq/taxation-detailed.html",
-      "comparison": {
-        "original_word_count": 1309,
-        "rewritten_word_count": 1921,
-        "statistics_found": 8,
-        "regulatory_refs": 28,
-        "custom_research_used": 2,
-        "research_agents": [
-          "StatisticsHunterAgent",
-          "CaseStudyExplorerAgent",
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent"
-        ],
-        "research_time": 7.789087
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "faq/index.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "faq/onboarding-process.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "faq/investment-products.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "faq/eams-family-offices.html",
-      "topic": "EAMs & Family Offices FAQ: DIFC, ADGM, Client Servicing ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/faq/eams-family-offices.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/faq/eams-family-offices.html",
-      "comparison": {
-        "original_word_count": 1063,
-        "rewritten_word_count": 2070,
-        "statistics_found": 9,
-        "regulatory_refs": 1,
-        "custom_research_used": 9,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.438145
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "faq/investment-products.html",
-      "topic": "Investment Products FAQ: AIFs, PMS, Fund of Funds ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/faq/investment-products.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/faq/investment-products.html",
-      "comparison": {
-        "original_word_count": 1366,
-        "rewritten_word_count": 2012,
-        "statistics_found": 0,
-        "regulatory_refs": 17,
-        "custom_research_used": 10,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 7.473082
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "faq/taxation-detailed.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "faq/gift-city-fundamentals.html",
-      "topic": "GIFT City Fundamentals: 10 FAQs Answered ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/faq/gift-city-fundamentals.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/faq/gift-city-fundamentals.html",
-      "comparison": {
-        "original_word_count": 1453,
-        "rewritten_word_count": 1748,
-        "statistics_found": 3,
-        "regulatory_refs": 12,
-        "custom_research_used": 6,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "StatisticsHunterAgent",
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 8.072628
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "faq/onboarding-process.html",
-      "topic": "Onboarding Process FAQ: KYC, Registration, Timeline ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/faq/onboarding-process.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/faq/onboarding-process.html",
-      "comparison": {
-        "original_word_count": 1682,
-        "rewritten_word_count": 1712,
-        "statistics_found": 0,
-        "regulatory_refs": 20,
-        "custom_research_used": 1,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "CaseStudyExplorerAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.469276
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "faq/eams-family-offices.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "eams-gateway/gift-city-gateway-indian-markets.html",
-      "topic": "GIFT CITY as Gateway to Indian Markets ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/eams-gateway/gift-city-gateway-indian-markets.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/eams-gateway/gift-city-gateway-indian-markets.html",
-      "comparison": {
-        "original_word_count": 147,
-        "rewritten_word_count": 1840,
-        "statistics_found": 17,
-        "regulatory_refs": 18,
-        "custom_research_used": 14,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 7.537063
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "eams-gateway/gift-city-ideal-route-eams.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "eams-gateway/why-gift-city-india-allocation.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "eams-gateway/index.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "eams-gateway/gift-city-gateway-indian-markets.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "eams-gateway/why-gift-city-india-allocation.html",
-      "topic": "Why GIFT CITY for India Allocation? ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/eams-gateway/why-gift-city-india-allocation.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/eams-gateway/why-gift-city-india-allocation.html",
-      "comparison": {
-        "original_word_count": 133,
-        "rewritten_word_count": 1907,
-        "statistics_found": 3,
-        "regulatory_refs": 17,
-        "custom_research_used": 8,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 7.860886
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "eams-gateway/gift-city-ideal-route-eams.html",
-      "topic": "Why GIFT CITY is the Ideal Route for EAMs ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/eams-gateway/gift-city-ideal-route-eams.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/eams-gateway/gift-city-ideal-route-eams.html",
-      "comparison": {
-        "original_word_count": 182,
-        "rewritten_word_count": 1848,
-        "statistics_found": 7,
-        "regulatory_refs": 14,
-        "custom_research_used": 3,
-        "research_agents": [
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent"
-        ],
-        "research_time": 8.338896
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
       "article": "why-tresowealth/math-engine-monte-carlo.html",
-      "topic": "Math Engine & Monte Carlo: Portfolio Optimization ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-tresowealth/math-engine-monte-carlo.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-tresowealth/math-engine-monte-carlo.html",
-      "comparison": {
-        "original_word_count": 179,
-        "rewritten_word_count": 1479,
-        "statistics_found": 1,
-        "regulatory_refs": 5,
-        "custom_research_used": 7,
-        "research_agents": [
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "RegulatoryDetectiveAgent",
-          "CaseStudyExplorerAgent"
-        ],
-        "research_time": 8.676397
-      }
+      "error": "No content generated"
     },
     {
-      "status": "success",
+      "status": "failed",
+      "article": "why-tresowealth/index.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
       "article": "why-tresowealth/tresowealth-analytics-moat.html",
-      "topic": "TresoWealth Analytics Moat: Math Engine & Due Diligence ",
-      "original_path": "/home/ubuntu/clawd/tresowealth-beta-site/why-tresowealth/tresowealth-analytics-moat.html",
-      "rewritten_path": "/home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2/why-tresowealth/tresowealth-analytics-moat.html",
-      "comparison": {
-        "original_word_count": 145,
-        "rewritten_word_count": 2109,
-        "statistics_found": 2,
-        "regulatory_refs": 11,
-        "custom_research_used": 3,
-        "research_agents": [
-          "CaseStudyExplorerAgent",
-          "BenchmarkAnalystAgent",
-          "StatisticsHunterAgent",
-          "RegulatoryDetectiveAgent"
-        ],
-        "research_time": 9.631914
-      }
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-tresowealth/math-engine-monte-carlo.html.backup.html",
+      "error": "No content generated"
+    },
+    {
+      "status": "failed",
+      "article": "why-tresowealth/tresowealth-analytics-moat.html.backup.html",
+      "error": "No content generated"
     }
   ]
 }
