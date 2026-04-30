@@ -1,0 +1,127 @@
+2026-04-28 08:42:42,979 - INFO - ================================================================================
+2026-04-28 08:42:42,979 - INFO - STEVE V6: RETRYING FAILED ARTICLES
+2026-04-28 08:42:42,979 - INFO - ================================================================================
+2026-04-28 08:42:42,979 - INFO - Articles to retry: 2
+2026-04-28 08:42:42,979 - INFO - Output directory: /home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2_retry
+2026-04-28 08:42:42,979 - INFO - 
+2026-04-28 08:42:42,979 - INFO - [1/2] Retrying: investment-process/how-foreigners-invest-gift-city-aif.html
+2026-04-28 08:42:43,061 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 08:42:43,061 - INFO - Enhanced Researcher v4 initialized:
+2026-04-28 08:42:43,061 - INFO -   ClawRouter: True
+2026-04-28 08:42:43,061 - INFO -   Web Search: True
+2026-04-28 08:42:43,061 - INFO -   Custom Agents: True
+2026-04-28 08:42:43,061 - INFO - Running enhanced research for: How Can Foreigners Invest in GIFT CITY AIFs?
+2026-04-28 08:42:43,061 - INFO - Starting enhanced research v4 for: How Can Foreigners Invest in GIFT CITY AIFs?
+2026-04-28 08:42:43,061 - INFO - Using custom research agents (parallel execution)
+2026-04-28 08:42:43,061 - INFO - Starting parallel research for: How Can Foreigners Invest in GIFT CITY AIFs?
+2026-04-28 08:42:43,061 - INFO - StatisticsHunterAgent starting research on: How Can Foreigners Invest in GIFT CITY AIFs?
+2026-04-28 08:42:43,062 - INFO - RegulatoryDetectiveAgent starting research on: How Can Foreigners Invest in GIFT CITY AIFs?
+2026-04-28 08:42:43,062 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-28 08:42:43,062 - INFO - BenchmarkAnalystAgent starting research on: How Can Foreigners Invest in GIFT CITY AIFs?
+2026-04-28 08:42:43,062 - INFO - CaseStudyExplorerAgent starting research on: How Can Foreigners Invest in GIFT CITY AIFs?
+2026-04-28 08:42:43,062 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-28 08:42:43,063 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-28 08:42:43,063 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-28 08:42:44,615 - INFO - CaseStudyExplorerAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:44,771 - INFO - BenchmarkAnalystAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:44,810 - INFO - RegulatoryDetectiveAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:45,292 - INFO - StatisticsHunterAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:46,006 - INFO - CaseStudyExplorerAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:46,214 - INFO - BenchmarkAnalystAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:46,721 - INFO - RegulatoryDetectiveAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:47,016 - INFO - StatisticsHunterAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:47,621 - INFO - BenchmarkAnalystAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:47,848 - INFO - CaseStudyExplorerAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:48,046 - INFO - RegulatoryDetectiveAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:48,519 - INFO - StatisticsHunterAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:49,357 - INFO - CaseStudyExplorerAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:49,522 - INFO - RegulatoryDetectiveAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:49,876 - INFO - StatisticsHunterAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:50,378 - INFO - BenchmarkAnalystAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:50,836 - INFO - CaseStudyExplorerAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:50,836 - INFO - CaseStudyExplorerAgent: Extracted 0 findings
+2026-04-28 08:42:50,837 - INFO - CaseStudyExplorer: 0 case studies found
+2026-04-28 08:42:50,905 - INFO - RegulatoryDetectiveAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:50,908 - INFO - RegulatoryDetectiveAgent: Extracted 0 findings
+2026-04-28 08:42:50,908 - INFO - RegulatoryDetective: 0 regulatory refs found
+2026-04-28 08:42:51,581 - INFO - StatisticsHunterAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:51,583 - INFO - StatisticsHunterAgent: Extracted 0 findings
+2026-04-28 08:42:51,584 - INFO - StatisticsHunter: 0 statistics found
+2026-04-28 08:42:51,684 - INFO - BenchmarkAnalystAgent: 5 sources for 'How Can Foreigners Invest in GIFT CITY A...'
+2026-04-28 08:42:51,686 - INFO - BenchmarkAnalystAgent: Extracted 5 findings
+2026-04-28 08:42:51,686 - INFO - BenchmarkAnalyst: 5 benchmarks found
+2026-04-28 08:42:51,687 - INFO - Parallel research complete in 8.63s
+2026-04-28 08:42:51,687 - INFO - Total findings: 0 stats, 0 regs, 5 benchmarks, 0 case studies
+2026-04-28 08:42:51,687 - INFO - Starting cross-validation
+2026-04-28 08:42:51,687 - INFO - Cross-validation complete: 0 HIGH, 0 MED, 0 LOW confidence
+2026-04-28 08:42:51,687 - INFO - Generating research artifact
+2026-04-28 08:42:51,687 - INFO - Artifact generated: 5 total findings
+2026-04-28 08:42:51,687 - INFO - Custom agent research complete: 5 findings in 8.63s
+2026-04-28 08:42:51,689 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 08:42:51,689 - INFO - 🔄 Routing to HIGH tier: You are an expert fintech content writer for Treso...
+2026-04-28 08:44:50,062 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 08:44:50,065 - INFO - ✅ Successfully rewritten: investment-process/how-foreigners-invest-gift-city-aif.html
+2026-04-28 08:44:50,065 - INFO - [2/2] Retrying: investment-process/kyc-non-indian-residents.html
+2026-04-28 08:44:50,067 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 08:44:50,067 - INFO - Enhanced Researcher v4 initialized:
+2026-04-28 08:44:50,067 - INFO -   ClawRouter: True
+2026-04-28 08:44:50,067 - INFO -   Web Search: True
+2026-04-28 08:44:50,067 - INFO -   Custom Agents: True
+2026-04-28 08:44:50,067 - INFO - Running enhanced research for: GIFT CITY AIF KYC for Non-Indian Residents
+2026-04-28 08:44:50,067 - INFO - Starting enhanced research v4 for: GIFT CITY AIF KYC for Non-Indian Residents
+2026-04-28 08:44:50,067 - INFO - Using custom research agents (parallel execution)
+2026-04-28 08:44:50,067 - INFO - Starting parallel research for: GIFT CITY AIF KYC for Non-Indian Residents
+2026-04-28 08:44:50,067 - INFO - StatisticsHunterAgent starting research on: GIFT CITY AIF KYC for Non-Indian Residents
+2026-04-28 08:44:50,068 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY AIF KYC for Non-Indian Residents
+2026-04-28 08:44:50,068 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY AIF KYC for Non-Indian Residents
+2026-04-28 08:44:50,068 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-28 08:44:50,068 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-28 08:44:50,068 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-28 08:44:50,072 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY AIF KYC for Non-Indian Residents
+2026-04-28 08:44:50,072 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-28 08:44:51,577 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:51,697 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:51,813 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:52,435 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:53,066 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:53,099 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:53,112 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:53,876 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:54,264 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:54,349 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:54,693 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:55,115 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:55,514 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:55,980 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:56,229 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:56,828 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:56,986 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:56,986 - INFO - CaseStudyExplorerAgent: Extracted 0 findings
+2026-04-28 08:44:56,986 - INFO - CaseStudyExplorer: 0 case studies found
+2026-04-28 08:44:57,284 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:57,286 - INFO - BenchmarkAnalystAgent: Extracted 5 findings
+2026-04-28 08:44:57,286 - INFO - BenchmarkAnalyst: 5 benchmarks found
+2026-04-28 08:44:57,648 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:57,649 - INFO - StatisticsHunterAgent: Extracted 2 findings
+2026-04-28 08:44:57,650 - INFO - StatisticsHunter: 2 statistics found
+2026-04-28 08:44:58,627 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY AIF KYC for Non-Indian Residen...'
+2026-04-28 08:44:58,629 - INFO - RegulatoryDetectiveAgent: Extracted 0 findings
+2026-04-28 08:44:58,629 - INFO - RegulatoryDetective: 0 regulatory refs found
+2026-04-28 08:44:58,629 - INFO - Parallel research complete in 8.56s
+2026-04-28 08:44:58,629 - INFO - Total findings: 2 stats, 0 regs, 5 benchmarks, 0 case studies
+2026-04-28 08:44:58,630 - INFO - Starting cross-validation
+2026-04-28 08:44:58,630 - INFO - Cross-validation complete: 0 HIGH, 0 MED, 2 LOW confidence
+2026-04-28 08:44:58,630 - INFO - Generating research artifact
+2026-04-28 08:44:58,630 - INFO - Artifact generated: 7 total findings
+2026-04-28 08:44:58,630 - INFO - Custom agent research complete: 7 findings in 8.56s
+2026-04-28 08:44:58,633 - INFO - ✅ ClawRouter connected: http://localhost:4000
+2026-04-28 08:44:58,633 - INFO - 🔄 Routing to HIGH tier: You are an expert fintech content writer for Treso...
+2026-04-28 08:47:28,035 - INFO - ✅ Response from z.ai: glm-5.1
+2026-04-28 08:47:28,036 - INFO - ✅ Successfully rewritten: investment-process/kyc-non-indian-residents.html
+2026-04-28 08:47:28,036 - INFO - 
+2026-04-28 08:47:28,036 - INFO - ================================================================================
+2026-04-28 08:47:28,036 - INFO - RETRY SUMMARY
+2026-04-28 08:47:28,036 - INFO - ================================================================================
+2026-04-28 08:47:28,036 - INFO - Successful: 2/2
+2026-04-28 08:47:28,036 - INFO -   ✅ investment-process/how-foreigners-invest-gift-city-aif.html
+2026-04-28 08:47:28,037 - INFO -   ✅ investment-process/kyc-non-indian-residents.html

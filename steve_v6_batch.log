@@ -1,0 +1,178 @@
+2026-04-29 06:30:20,529 - ERROR - ❌ ClawRouter not available: HTTPConnectionPool(host='localhost', port=4000): Read timed out. (read timeout=5)
+2026-04-29 06:30:20,529 - INFO -    Start ClawRouter: clawrouter start --port 4000
+2026-04-29 06:30:20,529 - INFO - ✓ ClawRouter connected (timeout: 300s for HIGH tier)
+2026-04-29 06:30:20,532 - INFO - Enhanced Researcher v4 initialized with 4 custom agents
+2026-04-29 06:30:20,532 - INFO - GitPublisher initialized: repo=/home/ubuntu/clawd/tresowealth-beta-site, default_branch=demo
+2026-04-29 06:30:20,532 - INFO - Steve v6 Complete Processor initialized
+2026-04-29 06:30:20,532 - INFO - 
+2026-04-29 06:30:20,532 - INFO - ================================================================================
+2026-04-29 06:30:20,532 - INFO - STEVE V6 COMPLETE WORKFLOW - ONE-TIME BATCH PROCESSOR
+2026-04-29 06:30:20,532 - INFO - ================================================================================
+2026-04-29 06:30:20,532 - INFO - Purpose: Initial population of 41 articles
+2026-04-29 06:30:20,532 - INFO - After this: Steve v6 runs automatically per content strategy
+2026-04-29 06:30:20,532 - INFO - 
+2026-04-29 06:30:20,532 - INFO - ================================================================================
+2026-04-29 06:30:20,532 - INFO - STAGE 1: INTAKE
+2026-04-29 06:30:20,532 - INFO - ================================================================================
+2026-04-29 06:30:20,534 - INFO - Discovered 41 articles (excluding .backup.html)
+2026-04-29 06:30:20,534 - INFO - Processing 41 articles through 7-stage workflow
+2026-04-29 06:30:20,534 - INFO - 
+2026-04-29 06:30:20,534 - INFO - 
+[1/41]
+2026-04-29 06:30:20,534 - INFO - 
+2026-04-29 06:30:20,534 - INFO - ================================================================================
+2026-04-29 06:30:20,534 - INFO - PROCESSING: gift-city-products/category-1-alternatives.html
+2026-04-29 06:30:20,534 - INFO - ================================================================================
+2026-04-29 06:30:20,534 - INFO - STAGE 2: RESEARCH - GIFT CITY Category I AIFs: Venture Capital & Start...
+2026-04-29 06:30:20,534 - INFO - Starting enhanced research: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-29 06:30:20,535 - INFO - Running statistics agent...
+2026-04-29 06:30:20,535 - INFO - StatisticsHunterAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-29 06:30:20,535 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-29 06:30:20,535 - INFO - Running regulatory agent...
+2026-04-29 06:30:20,535 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-29 06:30:20,535 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-29 06:30:20,535 - INFO - Running benchmark agent...
+2026-04-29 06:30:20,536 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-29 06:30:20,536 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-29 06:30:20,536 - INFO - Running case_study agent...
+2026-04-29 06:30:20,536 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-04-29 06:30:20,536 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-29 06:30:21,658 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:21,687 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:21,798 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:21,913 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:22,815 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:22,860 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:23,052 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:23,059 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:24,075 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:24,124 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:24,230 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:24,413 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:25,313 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:25,511 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:25,757 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:26,318 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:26,426 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:26,426 - INFO - RegulatoryDetectiveAgent: Found 5 premium sources, using Ladder
+2026-04-29 06:30:26,426 - WARNING - RegulatoryDetectiveAgent: Ladder failed for https://www.ifsca.gov.in/CommonDirect/PreviewPdf?id=38fea9cc5969551d78bf00e670b6d4dd&fileName=Brochure_for_Fund_Management_Activities_20251223_0542.pdf: Missing required field: query
+2026-04-29 06:30:26,426 - WARNING - RegulatoryDetectiveAgent: Ladder failed for https://www.sebi.gov.in/sebi_data/attachdocs/1471519155273.pdf: Missing required field: query
+2026-04-29 06:30:26,426 - WARNING - RegulatoryDetectiveAgent: Ladder failed for https://www.ifsca.gov.in/CommonDirect/PreviewPdf?id=38fea9cc5969551d78bf00e670b6d4dd&fileName=Brochure_for_Fund_Management_Activities_20251223_0542.pdf: Missing required field: query
+2026-04-29 06:30:26,426 - WARNING - RegulatoryDetectiveAgent: Ladder failed for https://www.ifsca.gov.in/CommonDirect/PreviewPdf?id=38fea9cc5969551d78bf00e670b6d4dd&fileName=Brochure_for_Fund_Management_Activities_20251223_0542.pdf: Missing required field: query
+2026-04-29 06:30:26,426 - WARNING - RegulatoryDetectiveAgent: Ladder failed for https://www.ifsca.gov.in/CommonDirect/PreviewPdf?id=38fea9cc5969551d78bf00e670b6d4dd&fileName=Brochure_for_Fund_Management_Activities_20251223_0542.pdf: Missing required field: query
+2026-04-29 06:30:26,426 - INFO - RegulatoryDetectiveAgent: Extracted 0 findings from premium sources
+2026-04-29 06:30:26,428 - INFO - RegulatoryDetectiveAgent: Extracted 1 findings from regular sources
+2026-04-29 06:30:26,428 - INFO - RegulatoryDetectiveAgent: Extracted 1 total findings
+2026-04-29 06:30:26,428 - INFO - regulatory agent completed: 1 findings
+2026-04-29 06:30:26,652 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:26,652 - INFO - CaseStudyExplorerAgent: Found 4 premium sources, using Ladder
+2026-04-29 06:30:26,652 - WARNING - CaseStudyExplorerAgent: Ladder failed for https://ifsca.gov.in/Document/ReportandPublication/onshore-the-indian-innovation-to-gift-ifsc-a4-7-1-25082023040836.pdf: Missing required field: query
+2026-04-29 06:30:26,652 - WARNING - CaseStudyExplorerAgent: Ladder failed for https://www.moneycontrol.com/news/business/markets/ifsca-registers-the-first-foreign-family-investment-fund-13894313.html: Missing required field: query
+2026-04-29 06:30:26,652 - WARNING - CaseStudyExplorerAgent: Ladder failed for https://www.moneycontrol.com/news/business/equitree-capital-launches-offshore-gift-city-aif-13896762.html: Missing required field: query
+2026-04-29 06:30:26,652 - WARNING - CaseStudyExplorerAgent: Ladder failed for https://www.ifsca.gov.in/CommonDirect/PreviewPdf?id=38fea9cc5969551d78bf00e670b6d4dd&fileName=Brochure_for_Fund_Management_Activities_20251223_0542.pdf: Missing required field: query
+2026-04-29 06:30:26,652 - INFO - CaseStudyExplorerAgent: Extracted 0 findings from premium sources
+2026-04-29 06:30:26,653 - INFO - CaseStudyExplorerAgent: Extracted 2 findings from regular sources
+2026-04-29 06:30:26,653 - INFO - CaseStudyExplorerAgent: Extracted 2 total findings
+2026-04-29 06:30:26,653 - INFO - case_study agent completed: 2 findings
+2026-04-29 06:30:26,893 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:26,893 - INFO - StatisticsHunterAgent: Found 8 premium sources, using Ladder
+2026-04-29 06:30:26,893 - WARNING - StatisticsHunterAgent: Ladder failed for https://ifsca.gov.in/Common/PreviewPdf?id=21626bde60601ef44a0ed02201817039&fileName=Statistics_for_Fund_Management_activities_in_GIFT_IFSC_as_on_March_31__2025_20250818_0548.pdf: Missing required field: query
+2026-04-29 06:30:26,893 - WARNING - StatisticsHunterAgent: Ladder failed for https://www.sebi.gov.in/statistics/1392982252002.html: Missing required field: query
+2026-04-29 06:30:26,893 - WARNING - StatisticsHunterAgent: Ladder failed for https://www.moneycontrol.com/news/business/markets/gift-city-growth-over-september-2024-to-2025-majorly-led-by-depth-not-breadth-reveals-data-in-hsbc-ey-s-latest-report-13712271.html: Missing required field: query
+2026-04-29 06:30:26,893 - WARNING - StatisticsHunterAgent: Ladder failed for https://www.ifsca.gov.in/CommonDirect/PreviewPdf?id=38fea9cc5969551d78bf00e670b6d4dd&fileName=Brochure_for_Fund_Management_Activities_20251223_0542.pdf: Missing required field: query
+2026-04-29 06:30:26,893 - WARNING - StatisticsHunterAgent: Ladder failed for https://www.moneycontrol.com/news/business/markets/gift-city-growth-over-september-2024-to-2025-majorly-led-by-depth-not-breadth-reveals-data-in-hsbc-ey-s-latest-report-13712271.html: Missing required field: query
+2026-04-29 06:30:26,893 - INFO - StatisticsHunterAgent: Extracted 0 findings from premium sources
+2026-04-29 06:30:26,895 - INFO - StatisticsHunterAgent: Extracted 2 findings from regular sources
+2026-04-29 06:30:26,895 - INFO - StatisticsHunterAgent: Extracted 2 total findings
+2026-04-29 06:30:26,895 - INFO - statistics agent completed: 2 findings
+2026-04-29 06:30:27,558 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-04-29 06:30:27,558 - INFO - BenchmarkAnalystAgent: Found 3 premium sources, using Ladder
+2026-04-29 06:30:27,558 - WARNING - BenchmarkAnalystAgent: Ladder failed for https://www.moneycontrol.com/news/business/markets/gift-ifsc-sees-sharp-dip-in-new-aif-setups-in-2025-even-as-investor-numbers-climb-13781655.html: Missing required field: query
+2026-04-29 06:30:27,558 - WARNING - BenchmarkAnalystAgent: Ladder failed for https://www.moneycontrol.com/news/business/markets/india-s-outbound-capital-via-gift-city-surges-8x-as-affluent-investors-globalise-portfolios-13694004.html: Missing required field: query
+2026-04-29 06:30:27,558 - WARNING - BenchmarkAnalystAgent: Ladder failed for https://www.ifsca.gov.in/CommonDirect/PreviewPdf?id=38fea9cc5969551d78bf00e670b6d4dd&fileName=Brochure_for_Fund_Management_Activities_20251223_0542.pdf: Missing required field: query
+2026-04-29 06:30:27,558 - INFO - BenchmarkAnalystAgent: Extracted 0 findings from premium sources
+2026-04-29 06:30:27,560 - INFO - BenchmarkAnalystAgent: Extracted 5 findings from regular sources
+2026-04-29 06:30:27,560 - INFO - BenchmarkAnalystAgent: Extracted 5 total findings
+2026-04-29 06:30:27,560 - INFO - benchmark agent completed: 5 findings
+2026-04-29 06:30:27,560 - INFO - Enhanced research complete: 10 findings in 7.0s
+2026-04-29 06:30:27,561 - INFO -   ✓ Research: 10 findings
+2026-04-29 06:30:27,561 - INFO - STAGE 3: DRAFT
+2026-04-29 06:30:27,561 - INFO - 🔄 Routing to HIGH tier: 
+Write a comprehensive 1500-2000 word article on: ...
+2026-04-29 06:35:27,647 - WARNING - ⏱️ Timeout on attempt 1, retrying in 1.0s...
+2026-04-29 06:35:28,648 - INFO - 🔄 Routing to HIGH tier: 
+Write a comprehensive 1500-2000 word article on: ...
+2026-04-29 06:40:28,746 - WARNING - ⏱️ Timeout on attempt 2, retrying in 2.0s...
+2026-04-29 06:40:30,748 - INFO - 🔄 Routing to HIGH tier: 
+Write a comprehensive 1500-2000 word article on: ...
+2026-04-29 06:45:30,841 - ERROR -   ✗ Draft failed: Query timed out after 300s
+Recovery: Try with a shorter query or increase timeout
+2026-04-29 06:45:30,841 - INFO - 
+[2/41]
+2026-04-29 06:45:30,841 - INFO - 
+2026-04-29 06:45:30,841 - INFO - ================================================================================
+2026-04-29 06:45:30,841 - INFO - PROCESSING: gift-city-products/gift-city-aif-products.html
+2026-04-29 06:45:30,841 - INFO - ================================================================================
+2026-04-29 06:45:30,841 - INFO - STAGE 2: RESEARCH - GIFT CITY Products: Your Gateway to India's Growth...
+2026-04-29 06:45:30,841 - INFO - Starting enhanced research: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-29 06:45:30,841 - INFO - Running statistics agent...
+2026-04-29 06:45:30,841 - INFO - StatisticsHunterAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-29 06:45:30,841 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-04-29 06:45:30,841 - INFO - Running regulatory agent...
+2026-04-29 06:45:30,842 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-29 06:45:30,842 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-04-29 06:45:30,841 - INFO - Running benchmark agent...
+2026-04-29 06:45:30,842 - INFO - Running case_study agent...
+2026-04-29 06:45:30,842 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-29 06:45:30,843 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-04-29 06:45:30,843 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-04-29 06:45:30,843 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-04-29 06:45:31,981 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:32,048 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:32,139 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:32,279 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:32,990 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:33,313 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:33,427 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:33,479 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:34,245 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:34,574 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:34,631 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:35,314 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:35,376 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:35,712 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:35,908 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:36,297 - INFO - CaseStudyExplorerAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:36,297 - INFO - CaseStudyExplorerAgent: Found 1 premium sources, using Ladder
+2026-04-29 06:45:36,297 - WARNING - CaseStudyExplorerAgent: Ladder failed for https://www.reuters.com/world/india/indias-gift-city-finance-hub-grants-first-family-office-permit-2026-04-20/: Missing required field: query
+2026-04-29 06:45:36,298 - INFO - CaseStudyExplorerAgent: Extracted 0 findings from premium sources
+2026-04-29 06:45:36,298 - INFO - CaseStudyExplorerAgent: Extracted 1 findings from regular sources
+2026-04-29 06:45:36,298 - INFO - CaseStudyExplorerAgent: Extracted 1 total findings
+2026-04-29 06:45:36,298 - INFO - case_study agent completed: 1 findings
+2026-04-29 06:45:36,522 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:37,045 - INFO - RegulatoryDetectiveAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:37,045 - INFO - RegulatoryDetectiveAgent: Found 1 premium sources, using Ladder
+2026-04-29 06:45:37,045 - WARNING - RegulatoryDetectiveAgent: Ladder failed for https://ifsca.gov.in/CommonDirect/ViewFile?id=d575554ec59b09e7fde503d3a8dc671f&fileName=Circular__91_20260422_0432.pdf: Missing required field: query
+2026-04-29 06:45:37,045 - INFO - RegulatoryDetectiveAgent: Extracted 0 findings from premium sources
+2026-04-29 06:45:37,046 - INFO - RegulatoryDetectiveAgent: Extracted 3 findings from regular sources
+2026-04-29 06:45:37,046 - INFO - RegulatoryDetectiveAgent: Extracted 3 total findings
+2026-04-29 06:45:37,046 - INFO - regulatory agent completed: 3 findings
+2026-04-29 06:45:37,109 - INFO - BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:37,110 - INFO - BenchmarkAnalystAgent: Extracted 1 findings from regular sources
+2026-04-29 06:45:37,110 - INFO - BenchmarkAnalystAgent: Extracted 1 total findings
+2026-04-29 06:45:37,110 - INFO - benchmark agent completed: 1 findings
+2026-04-29 06:45:37,778 - INFO - StatisticsHunterAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-04-29 06:45:37,779 - INFO - StatisticsHunterAgent: Extracted 1 findings from regular sources
+2026-04-29 06:45:37,779 - INFO - StatisticsHunterAgent: Extracted 1 total findings
+2026-04-29 06:45:37,779 - INFO - statistics agent completed: 1 findings
+2026-04-29 06:45:37,779 - INFO - Enhanced research complete: 6 findings in 6.9s
+2026-04-29 06:45:37,779 - INFO -   ✓ Research: 6 findings
+2026-04-29 06:45:37,780 - INFO - STAGE 3: DRAFT
+2026-04-29 06:45:37,780 - INFO - 🔄 Routing to HIGH tier: 
+Write a comprehensive 1500-2000 word article on: ...
+2026-04-29 06:50:37,881 - WARNING - ⏱️ Timeout on attempt 1, retrying in 1.0s...
+2026-04-29 06:50:38,882 - INFO - 🔄 Routing to HIGH tier: 
+Write a comprehensive 1500-2000 word article on: ...
+2026-04-29 06:55:38,966 - WARNING - ⏱️ Timeout on attempt 2, retrying in 2.0s...
+2026-04-29 06:55:40,968 - INFO - 🔄 Routing to HIGH tier: 
+Write a comprehensive 1500-2000 word article on: ...

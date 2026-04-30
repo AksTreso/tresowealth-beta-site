@@ -1,0 +1,614 @@
+ERROR:clawrouter_client:❌ ClawRouter not available: HTTPConnectionPool(host='localhost', port=4000): Read timed out. (read timeout=5)
+INFO:clawrouter_client:   Start ClawRouter: clawrouter start --port 4000
+INFO:__main__:ClawRouter client initialized
+INFO:__main__:================================================================================
+INFO:__main__:SIMPLE BATCH ARTICLE REWRITER v1.0
+INFO:__main__:================================================================================
+INFO:__main__:Repository: /home/ubuntu/clawd/tresowealth-beta-site
+INFO:__main__:Output directory: /home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2
+INFO:__main__:Scanning repository: /home/ubuntu/clawd/tresowealth-beta-site
+INFO:__main__:Discovered 89 articles
+INFO:__main__:Starting batch rewrite of 89 articles
+INFO:__main__:Output directory: /home/ubuntu/clawd/tresowealth-beta-site/steve_rewrites_v2
+INFO:__main__:
+[1/89] Processing article
+INFO:__main__:Processing: gift-city-products/category-1-alternatives.html.backup.html
+INFO:EnhancedResearcher.v4:Enhanced Researcher v4 initialized with 4 custom agents
+INFO:__main__:Running enhanced research for: GIFT CITY Category I AIFs: Venture Capital & Startups 
+INFO:EnhancedResearcher.v4:Starting enhanced research: GIFT CITY Category I AIFs: Venture Capital & Startups 
+INFO:EnhancedResearcher.v4:Running statistics agent...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running regulatory agent...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running benchmark agent...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running case_study agent...
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups 
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent executing 5 search queries
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+WARNING:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+WARNING:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+WARNING:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: Extracted 1 findings
+INFO:EnhancedResearcher.v4:benchmark agent completed: 1 findings
+INFO:clawrouter_client:✅ Response from z.ai: glm-5.1
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: ClawRouter fallback returned 5 findings
+INFO:EnhancedResearcher.v4:regulatory agent completed: 5 findings
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+ERROR:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:statistics agent completed: 0 findings
+ERROR:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:case_study agent completed: 0 findings
+INFO:EnhancedResearcher.v4:Enhanced research complete: 6 findings in 547.4s
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+ERROR:__main__:Error generating article: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+WARNING:__main__:⚠️  No content generated for: gift-city-products/category-1-alternatives.html.backup.html
+INFO:__main__:
+[2/89] Processing article
+INFO:__main__:Processing: gift-city-products/category-1-alternatives.html
+INFO:EnhancedResearcher.v4:Enhanced Researcher v4 initialized with 4 custom agents
+INFO:__main__:Running enhanced research for: GIFT CITY Category I AIFs: Venture Capital & Startups  
+INFO:EnhancedResearcher.v4:Starting enhanced research: GIFT CITY Category I AIFs: Venture Capital & Startups  
+INFO:EnhancedResearcher.v4:Running statistics agent...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running regulatory agent...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running benchmark agent...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running case_study agent...
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent executing 5 search queries
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+WARNING:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+WARNING:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++case+study+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++institutional+investor+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++tax+notification+section&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++deployment+allocation+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++legal+framework+regulatory&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++total+corpus+deployed&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++real+investment+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups++global+standards+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++case+study+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++institutional+investor+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++tax+notification+section&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++deployment+allocation+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++total+corpus+deployed&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++legal+framework+regulatory&count=5
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+WARNING:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: Extracted 1 findings
+INFO:EnhancedResearcher.v4:benchmark agent completed: 1 findings
+WARNING:clawrouter_client:⚠️ HTTP error on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+WARNING:clawrouter_client:⚠️ HTTP error on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+WARNING:clawrouter_client:⚠️ HTTP error on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⚠️ HTTP error on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+ERROR:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent ClawRouter fallback failed: Failed to connect to ClawRouter after 3 attempts: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Recovery: Check if ClawRouter is running
+INFO:EnhancedResearcher.v4:statistics agent completed: 0 findings
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:✅ Response from z.ai: glm-5.1
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: ClawRouter fallback returned 5 findings
+INFO:EnhancedResearcher.v4:regulatory agent completed: 5 findings
+ERROR:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:case_study agent completed: 0 findings
+INFO:EnhancedResearcher.v4:Enhanced research complete: 6 findings in 542.9s
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+INFO:clawrouter_client:✅ Response from z.ai: glm-5.1
+INFO:__main__:✅ Successfully rewritten: gift-city-products/category-1-alternatives.html
+INFO:__main__:
+[3/89] Processing article
+INFO:__main__:Processing: gift-city-products/gift-city-aif-products.html
+INFO:EnhancedResearcher.v4:Enhanced Researcher v4 initialized with 4 custom agents
+INFO:__main__:Running enhanced research for: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+INFO:EnhancedResearcher.v4:Starting enhanced research: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+INFO:EnhancedResearcher.v4:Running statistics agent...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running regulatory agent...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running benchmark agent...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running case_study agent...
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent executing 5 search queries
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+WARNING:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Pro...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+WARNING:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+WARNING:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: Extracted 0 findings
+INFO:EnhancedResearcher.v4:benchmark agent completed: 0 findings
+INFO:clawrouter_client:✅ Response from z.ai: glm-5.1
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: ClawRouter fallback returned 6 findings
+INFO:EnhancedResearcher.v4:statistics agent completed: 6 findings
+INFO:clawrouter_client:✅ Response from z.ai: glm-5.1
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: ClawRouter fallback returned 5 findings
+INFO:EnhancedResearcher.v4:regulatory agent completed: 5 findings
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:✅ Response from z.ai: glm-5.1
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: ClawRouter fallback returned 1 findings
+INFO:EnhancedResearcher.v4:case_study agent completed: 1 findings
+INFO:EnhancedResearcher.v4:Enhanced research complete: 12 findings in 352.2s
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+INFO:clawrouter_client:✅ Response from z.ai: glm-5.1
+INFO:__main__:✅ Successfully rewritten: gift-city-products/gift-city-aif-products.html
+INFO:__main__:
+[4/89] Processing article
+INFO:__main__:Processing: gift-city-products/index.html.backup.html
+INFO:EnhancedResearcher.v4:Enhanced Researcher v4 initialized with 4 custom agents
+INFO:__main__:Running enhanced research for: GIFT City Products 
+INFO:EnhancedResearcher.v4:Starting enhanced research: GIFT City Products 
+INFO:EnhancedResearcher.v4:Running statistics agent...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent starting research on: GIFT City Products 
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running regulatory agent...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent starting research on: GIFT City Products 
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running benchmark agent...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent starting research on: GIFT City Products 
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running case_study agent...
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent starting research on: GIFT City Products 
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent executing 5 search queries
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT City Products  industry benchmark c...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT City Products  case study example...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT City Products  statistics data 2024...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT City Products  SEBI regulation noti...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT City Products  versus competitors...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT City Products  success story family...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT City Products  AUM assets under man...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT City Products  IFSCA guidelines not...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT City Products  institutional invest...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT City Products  market average perfo...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT City Products  growth rate CAGR mar...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT City Products  RBI compliance requi...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT City Products  deployment allocatio...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT City Products  investor count fund ...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT City Products  tax notification sec...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 5 sources for 'GIFT City Products  ranking position Ind...'
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++real+investment+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Category+I+AIFs%3A+Venture+Capital+%26+Startups+++global+standards+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++case+study+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++institutional+investor+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++tax+notification+section&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++deployment+allocation+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++total+corpus+deployed&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++legal+framework+regulatory&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++real+investment+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Products%3A+Your+Gateway+to+India%27s+Growth+%7C+Complete+Guide+%5B2026%5D++global+standards+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++case+study+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++institutional+investor+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++deployment+allocation+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++tax+notification+section&count=5
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT City Products  real investment exam...'
+WARNING:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT City Products  total corpus deploye...'
+WARNING:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT City Pro...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT City Products  legal framework regu...'
+WARNING:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT City Products  global standards com...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: Extracted 3 findings
+INFO:EnhancedResearcher.v4:benchmark agent completed: 3 findings
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT City Pro...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT City Pro...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+ERROR:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:case_study agent completed: 0 findings
+ERROR:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:regulatory agent completed: 0 findings
+ERROR:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:statistics agent completed: 0 findings
+INFO:EnhancedResearcher.v4:Enhanced research complete: 3 findings in 547.3s
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+ERROR:__main__:Error generating article: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+WARNING:__main__:⚠️  No content generated for: gift-city-products/index.html.backup.html
+INFO:__main__:
+[5/89] Processing article
+INFO:__main__:Processing: gift-city-products/how-to-invest.html
+INFO:EnhancedResearcher.v4:Enhanced Researcher v4 initialized with 4 custom agents
+INFO:__main__:Running enhanced research for: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+INFO:EnhancedResearcher.v4:Starting enhanced research: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+INFO:EnhancedResearcher.v4:Running statistics agent...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running regulatory agent...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running benchmark agent...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running case_study agent...
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent starting research on: How to Invest in GIFT CITY AIFs: Step-by-Step Guide  
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent executing 5 search queries
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 5 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+WARNING:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+WARNING:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+WARNING:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about How to Invest...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'How to Invest in GIFT CITY AIFs: Step-by...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: Extracted 0 findings
+INFO:EnhancedResearcher.v4:benchmark agent completed: 0 findings
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about How to Invest...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about How to Invest...
+ERROR:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:regulatory agent completed: 0 findings
+ERROR:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:case_study agent completed: 0 findings
+ERROR:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:statistics agent completed: 0 findings
+INFO:EnhancedResearcher.v4:Enhanced research complete: 0 findings in 547.5s
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+ERROR:__main__:Error generating article: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+WARNING:__main__:⚠️  No content generated for: gift-city-products/how-to-invest.html
+INFO:__main__:
+[6/89] Processing article
+INFO:__main__:Processing: gift-city-products/tax-benefits.html
+INFO:EnhancedResearcher.v4:Enhanced Researcher v4 initialized with 4 custom agents
+INFO:__main__:Running enhanced research for: GIFT CITY Tax Benefits: 0% Capital Gains Explained  
+INFO:EnhancedResearcher.v4:Starting enhanced research: GIFT CITY Tax Benefits: 0% Capital Gains Explained  
+INFO:EnhancedResearcher.v4:Running statistics agent...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent starting research on: GIFT CITY Tax Benefits: 0% Capital Gains Explained  
+INFO:EnhancedResearcher.v4:Running regulatory agent...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent executing 5 search queries
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent starting research on: GIFT CITY Tax Benefits: 0% Capital Gains Explained  
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent executing 5 search queries
+INFO:EnhancedResearcher.v4:Running case_study agent...
+INFO:EnhancedResearcher.v4:Running benchmark agent...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent starting research on: GIFT CITY Tax Benefits: 0% Capital Gains Explained  
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent executing 5 search queries
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent starting research on: GIFT CITY Tax Benefits: 0% Capital Gains Explained  
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent executing 5 search queries
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++real+investment+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++total+corpus+deployed&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++legal+framework+regulatory&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+City+Products++global+standards+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++case+study+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++institutional+investor+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++tax+notification+section&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++deployment+allocation+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++real+investment+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++legal+framework+regulatory&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++total+corpus+deployed&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=How+to+Invest+in+GIFT+CITY+AIFs%3A+Step-by-Step+Guide+++global+standards+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++statistics+data+2024+2025+2026&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++industry+benchmark+comparison&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++SEBI+regulation+notification+circular&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++case+study+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++IFSCA+guidelines+notification&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++versus+competitors&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++success+story+family+office&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++AUM+assets+under+management&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++institutional+investor+example&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++growth+rate+CAGR+market+size&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++RBI+compliance+requirements&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++market+average+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++investor+count+fund+performance&count=5
+[web-search-plus] Error calling brave: 402 Client Error: Payment Required for url: https://api.search.brave.com/res/v1/web/search?q=GIFT+CITY+Tax+Benefits%3A+0%25+Capital+Gains+Explained+++deployment+allocation+example&count=5
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+WARNING:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+WARNING:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Tax...
+INFO:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+WARNING:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent: No sources found, using ClawRouter fallback
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 5 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Tax Benefits: 0% Capital Gains...'
+INFO:ResearchAgent.BenchmarkAnalystAgent:BenchmarkAnalystAgent: Extracted 0 findings
+INFO:EnhancedResearcher.v4:benchmark agent completed: 0 findings
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Tax...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 2, retrying in 2.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 1-2 real case studies or examples related to...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Tax...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+ERROR:ResearchAgent.CaseStudyExplorerAgent:CaseStudyExplorerAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:case_study agent completed: 0 findings
+ERROR:ResearchAgent.RegulatoryDetectiveAgent:RegulatoryDetectiveAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:regulatory agent completed: 0 findings
+ERROR:ResearchAgent.StatisticsHunterAgent:StatisticsHunterAgent ClawRouter fallback failed: Query timed out after 180s
+Recovery: Try with a shorter query or increase timeout
+INFO:EnhancedResearcher.v4:statistics agent completed: 0 findings
+INFO:EnhancedResearcher.v4:Enhanced research complete: 0 findings in 547.6s
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...
+WARNING:clawrouter_client:⏱️ Timeout on attempt 1, retrying in 1.0s...
+INFO:clawrouter_client:🔄 Routing to HIGH tier: 
+You are an expert fintech content writer for Tres...

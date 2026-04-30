@@ -1,0 +1,997 @@
+{
+  "total": 41,
+  "stage_1_intake": 41,
+  "stage_2_research": 41,
+  "stage_3_draft": 41,
+  "stage_4_validate": 41,
+  "stage_5_package": 41,
+  "stage_6_approve": 41,
+  "stage_7_publish": 0,
+  "blocked": 0,
+  "articles": [
+    {
+      "article": "gift-city-products/category-1-alternatives.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 963,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 2,
+          "year_2026_count": 13,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "gift-city-products/gift-city-aif-products.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 927,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 8,
+          "year_2026_count": 24,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "gift-city-products/how-to-invest.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 961,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 2,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "gift-city-products/tax-benefits.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 932,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 5,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "gift-city-products/indian-fund-managers.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 961,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 6,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "gift-city-products/gift-city-aif-for-eams.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 961,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 5,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/uae-residents-investment-process.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 970,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 5,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/how-foreigners-invest-gift-city-aif.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 956,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 3,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/kyc-non-indian-residents.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 954,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 2,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/eams-onboarding.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 970,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 5,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/gift-city-aif-vs-benchmarks.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 948,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 5,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/mainland-vs-gift-city-comparison.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 8,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/best-gift-city-aif-options-2026.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 970,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 18,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/repatriation-taxes-minimums.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 932,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 7,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/account-opening-foreigners.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 3,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "investment-process/gift-city-aif-fees-costs.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 954,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 90.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 3,
+          "year_2026_count": 6,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "tax-regulatory/gcc-family-offices-tax-guide.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 6,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "tax-regulatory/difc-eams-tax-guide.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 2,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "tax-regulatory/saudi-hni-tax-guide.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 960,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 4,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "tax-regulatory/uae-residents-tax-guide.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 3,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "tax-regulatory/dubai-hni-tax-guide.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 975,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 4,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/india-manufacturing-revival.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 956,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 10,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/india-demographic-dividend-2026.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 938,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 3,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/healthcare-life-sciences.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 958,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 20,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/digital-infrastructure-boom.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 11,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/renewable-energy-transition.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 958,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 10,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/financial-services-growth.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 9,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/infra-logistics-aif.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 953,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 13,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/real-estate-reit-aif.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 966,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 14,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/india-vs-china-demographics.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 953,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 3,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-india/india-gdp-growth-2026.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 946,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 10,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "faq/taxation-detailed.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 922,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 8,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "faq/eams-family-offices.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 942,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 10,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "faq/investment-products.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 952,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 4,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "faq/gift-city-fundamentals.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 953,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 4,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "faq/onboarding-process.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 932,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 6,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "eams-gateway/gift-city-gateway-indian-markets.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 965,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 6,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "eams-gateway/why-gift-city-india-allocation.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 958,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 3,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "eams-gateway/gift-city-ideal-route-eams.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 975,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 0,
+          "year_2026_count": 4,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-tresowealth/math-engine-monte-carlo.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 969,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 86.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 6,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    },
+    {
+      "article": "why-tresowealth/tresowealth-analytics-moat.html",
+      "status": "failed",
+      "url": "",
+      "validation": {
+        "risa": {
+          "score": 951,
+          "target": 910,
+          "pass": true
+        },
+        "brand": {
+          "score": 88.0,
+          "target": 95,
+          "pass": false
+        },
+        "freshness": {
+          "pass": true,
+          "year_2025_count": 1,
+          "year_2026_count": 15,
+          "status": "good"
+        },
+        "overall_pass": true
+      }
+    }
+  ]
+}
