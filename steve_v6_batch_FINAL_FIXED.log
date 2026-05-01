@@ -1,0 +1,173 @@
+2026-05-01 07:55:27,743 - ERROR - ❌ ClawRouter not available: HTTPConnectionPool(host='localhost', port=4000): Read timed out. (read timeout=5)
+2026-05-01 07:55:27,743 - INFO -    Start ClawRouter: clawrouter start --port 4000
+2026-05-01 07:55:27,743 - INFO - ✓ ClawRouter connected (timeout: 300s for HIGH tier)
+2026-05-01 07:55:27,744 - INFO - ✓ Ladder integration loaded via importlib
+2026-05-01 07:55:27,744 - INFO - Enhanced Researcher v4 initialized with 4 custom agents
+2026-05-01 07:55:27,744 - INFO - GitPublisher initialized: repo=/home/ubuntu/clawd/tresowealth-beta-site, default_branch=demo
+2026-05-01 07:55:27,744 - INFO - Steve v6 Complete Processor initialized
+2026-05-01 07:55:27,744 - INFO - 
+2026-05-01 07:55:27,744 - INFO - ================================================================================
+2026-05-01 07:55:27,744 - INFO - STEVE V6 COMPLETE WORKFLOW - ONE-TIME BATCH PROCESSOR
+2026-05-01 07:55:27,744 - INFO - ================================================================================
+2026-05-01 07:55:27,744 - INFO - Purpose: Initial population of 41 articles
+2026-05-01 07:55:27,744 - INFO - After this: Steve v6 runs automatically per content strategy
+2026-05-01 07:55:27,744 - INFO - 
+2026-05-01 07:55:27,744 - INFO - ================================================================================
+2026-05-01 07:55:27,744 - INFO - STAGE 1: INTAKE
+2026-05-01 07:55:27,744 - INFO - ================================================================================
+2026-05-01 07:55:27,748 - INFO - Discovered 41 articles (excluding .backup.html)
+2026-05-01 07:55:27,748 - INFO - Processing 41 articles through 7-stage workflow
+2026-05-01 07:55:27,748 - INFO - 
+2026-05-01 07:55:27,748 - INFO - 
+[1/41]
+2026-05-01 07:55:27,748 - INFO - 
+2026-05-01 07:55:27,748 - INFO - ================================================================================
+2026-05-01 07:55:27,748 - INFO - PROCESSING: gift-city-products/category-1-alternatives.html
+2026-05-01 07:55:27,748 - INFO - ================================================================================
+2026-05-01 07:55:27,748 - INFO - STAGE 2: RESEARCH - GIFT CITY Category I AIFs: Venture Capital & Start...
+2026-05-01 07:55:27,748 - INFO - Starting enhanced research: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-05-01 07:55:27,748 - INFO - Running statistics agent...
+2026-05-01 07:55:27,748 - INFO - StatisticsHunterAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-05-01 07:55:27,748 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-05-01 07:55:27,748 - INFO - Running regulatory agent...
+2026-05-01 07:55:27,748 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-05-01 07:55:27,748 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-05-01 07:55:27,749 - INFO - Running benchmark agent...
+2026-05-01 07:55:27,749 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-05-01 07:55:27,749 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-05-01 07:55:27,749 - INFO - Running case_study agent...
+2026-05-01 07:55:27,749 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY Category I AIFs: Venture Capital & Startups  
+2026-05-01 07:55:27,749 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-05-01 07:55:28,021 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,030 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,037 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,047 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,271 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,277 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,287 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,293 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,486 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,521 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,524 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,532 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,695 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,759 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,763 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,783 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,904 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,904 - WARNING - BenchmarkAnalystAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 07:55:28,904 - INFO - 🔄 Routing to HIGH tier: 
+Find industry benchmarks and comparisons for GIFT...
+2026-05-01 07:55:28,971 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,971 - WARNING - StatisticsHunterAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 07:55:28,971 - INFO - 🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+2026-05-01 07:55:28,987 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:28,988 - WARNING - CaseStudyExplorerAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 07:55:28,988 - INFO - 🔄 Routing to HIGH tier: 
+Find specific case studies and real examples for ...
+2026-05-01 07:55:29,011 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Category I AIFs: Venture Capit...'
+2026-05-01 07:55:29,011 - WARNING - RegulatoryDetectiveAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 07:55:29,011 - INFO - 🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+2026-05-01 07:59:17,383 - INFO - ✅ Response from z.ai: glm-5.1
+2026-05-01 07:59:17,384 - INFO - BenchmarkAnalystAgent: ClawRouter fallback returned 5 findings
+2026-05-01 07:59:17,384 - INFO - BenchmarkAnalystAgent: Extracted 5 total findings
+2026-05-01 07:59:18,207 - INFO - benchmark agent completed: 5 findings
+2026-05-01 08:00:29,069 - WARNING - ⏱️ Timeout on attempt 1, retrying in 1.0s...
+2026-05-01 08:00:29,073 - WARNING - ⏱️ Timeout on attempt 1, retrying in 1.0s...
+2026-05-01 08:00:29,111 - WARNING - ⏱️ Timeout on attempt 1, retrying in 1.0s...
+2026-05-01 08:00:30,071 - INFO - 🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Cat...
+2026-05-01 08:00:30,074 - INFO - 🔄 Routing to HIGH tier: 
+Find specific case studies and real examples for ...
+2026-05-01 08:00:30,111 - INFO - 🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+2026-05-01 08:05:03,939 - INFO - ✅ Response from z.ai: glm-5.1
+2026-05-01 08:05:03,940 - INFO - StatisticsHunterAgent: ClawRouter fallback returned 6 findings
+2026-05-01 08:05:03,940 - INFO - StatisticsHunterAgent: Extracted 6 total findings
+2026-05-01 08:05:04,577 - INFO - statistics agent completed: 6 findings
+2026-05-01 08:05:30,175 - WARNING - ⏱️ Timeout on attempt 2, retrying in 2.0s...
+2026-05-01 08:05:30,212 - WARNING - ⏱️ Timeout on attempt 2, retrying in 2.0s...
+2026-05-01 08:05:32,177 - INFO - 🔄 Routing to HIGH tier: 
+Find specific case studies and real examples for ...
+2026-05-01 08:05:32,213 - INFO - 🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
+2026-05-01 08:09:56,477 - INFO - ✅ Response from z.ai: glm-5.1
+2026-05-01 08:09:56,477 - INFO - CaseStudyExplorerAgent: ClawRouter fallback returned 3 findings
+2026-05-01 08:09:56,478 - INFO - CaseStudyExplorerAgent: Extracted 3 total findings
+2026-05-01 08:09:57,173 - INFO - case_study agent completed: 3 findings
+2026-05-01 08:10:32,310 - ERROR - RegulatoryDetectiveAgent ClawRouter fallback failed: Query timed out after 300s
+Recovery: Try with a shorter query or increase timeout
+2026-05-01 08:10:32,310 - INFO - RegulatoryDetectiveAgent: Extracted 0 total findings
+2026-05-01 08:10:32,944 - INFO - regulatory agent completed: 0 findings
+2026-05-01 08:10:32,945 - INFO - Collected 0 unique sources from web searches
+2026-05-01 08:10:32,945 - INFO - Collected 0 unique sources from web searches
+2026-05-01 08:10:32,945 - INFO - Enhanced research complete: 14 findings in 905.2s
+2026-05-01 08:10:32,945 - INFO -   ✓ Research: 14 findings
+2026-05-01 08:10:32,945 - INFO - STAGE 3: DRAFT
+2026-05-01 08:10:32,945 - INFO - 🔄 Routing to HIGH tier: 
+Write a comprehensive 1500-2000 word article on: ...
+2026-05-01 08:13:40,110 - INFO - ✅ Response from z.ai: glm-5.1
+2026-05-01 08:13:40,110 - INFO -   ✓ Draft: 1893 words
+2026-05-01 08:13:40,111 - INFO - STAGE 4: VALIDATE
+2026-05-01 08:13:40,118 - WARNING -   Citation check failed: No module named 'quality_gate'
+2026-05-01 08:13:40,118 - INFO -   ✓ Validation: RISA 958/1000, Brand 86.0/100
+2026-05-01 08:13:40,118 - INFO - STAGE 5: PACKAGE
+2026-05-01 08:13:40,118 - INFO -   ✓ Packaged
+2026-05-01 08:13:40,118 - INFO - STAGE 6: APPROVE
+2026-05-01 08:13:40,118 - INFO -   ✓ Approved: 9.4/10
+2026-05-01 08:13:40,118 - INFO - STAGE 7: PUBLISH
+2026-05-01 08:13:40,158 - ERROR -   ✗ Publish failed: name 'research' is not defined
+2026-05-01 08:13:40,158 - INFO - 
+[2/41]
+2026-05-01 08:13:40,158 - INFO - 
+2026-05-01 08:13:40,158 - INFO - ================================================================================
+2026-05-01 08:13:40,158 - INFO - PROCESSING: gift-city-products/gift-city-aif-products.html
+2026-05-01 08:13:40,158 - INFO - ================================================================================
+2026-05-01 08:13:40,158 - INFO - STAGE 2: RESEARCH - GIFT CITY Products: Your Gateway to India's Growth...
+2026-05-01 08:13:40,158 - INFO - Starting enhanced research: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-05-01 08:13:40,158 - INFO - Running statistics agent...
+2026-05-01 08:13:40,158 - INFO - StatisticsHunterAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-05-01 08:13:40,158 - INFO - Running regulatory agent...
+2026-05-01 08:13:40,159 - INFO - RegulatoryDetectiveAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-05-01 08:13:40,159 - INFO - StatisticsHunterAgent executing 5 search queries
+2026-05-01 08:13:40,159 - INFO - RegulatoryDetectiveAgent executing 5 search queries
+2026-05-01 08:13:40,159 - INFO - Running benchmark agent...
+2026-05-01 08:13:40,159 - INFO - BenchmarkAnalystAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-05-01 08:13:40,159 - INFO - BenchmarkAnalystAgent executing 5 search queries
+2026-05-01 08:13:40,159 - INFO - Running case_study agent...
+2026-05-01 08:13:40,159 - INFO - CaseStudyExplorerAgent starting research on: GIFT CITY Products: Your Gateway to India's Growth | Complete Guide [2026] 
+2026-05-01 08:13:40,159 - INFO - CaseStudyExplorerAgent executing 5 search queries
+2026-05-01 08:13:40,445 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,449 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,452 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,457 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,722 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,728 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,731 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,736 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,950 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,954 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,978 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:40,982 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,210 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,221 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,232 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,238 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,439 - INFO - CaseStudyExplorerAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,439 - WARNING - CaseStudyExplorerAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 08:13:41,439 - INFO - 🔄 Routing to HIGH tier: 
+Find specific case studies and real examples for ...
+2026-05-01 08:13:41,443 - INFO - BenchmarkAnalystAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,444 - WARNING - BenchmarkAnalystAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 08:13:41,444 - INFO - 🔄 Routing to HIGH tier: 
+Find industry benchmarks and comparisons for GIFT...
+2026-05-01 08:13:41,465 - INFO - StatisticsHunterAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,465 - WARNING - StatisticsHunterAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 08:13:41,465 - INFO - 🔄 Routing to HIGH tier: 
+Find 5-10 specific statistics about GIFT CITY Pro...
+2026-05-01 08:13:41,470 - INFO - RegulatoryDetectiveAgent: 0 sources for 'GIFT CITY Products: Your Gateway to Indi...'
+2026-05-01 08:13:41,470 - WARNING - RegulatoryDetectiveAgent: No findings from sources, using ClawRouter fallback
+2026-05-01 08:13:41,470 - INFO - 🔄 Routing to HIGH tier: 
+Find specific SEBI and IFSCA regulatory reference...
