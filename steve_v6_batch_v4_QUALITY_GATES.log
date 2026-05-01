@@ -1,0 +1,4 @@
+  File "/home/ubuntu/clawd/tresowealth-beta-site/steve_v6_complete_processor.py", line 387
+    first_para_end = content.find('
+                                  ^
+SyntaxError: unterminated string literal (detected at line 387)
